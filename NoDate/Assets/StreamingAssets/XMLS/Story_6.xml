@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- 关卡设定-->
+  <Story>
+  <time>第二天</time>
+  <place>宿舍</place>
+  <image_name>14.jpg</image_name>
+    <elem>
+      <name></name>
+      <answer>在宿舍睡了一天</answer>
+    </elem>
+</Story>

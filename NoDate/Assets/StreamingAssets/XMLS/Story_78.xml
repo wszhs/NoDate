@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- 关卡设定-->
+  <Story>
+<time>第三天</time>
+  <place>酒桌</place>
+  <image_name>14.jpg</image_name>
+ <elem>
+    <name></name>
+    <answer>自上次酒局之后，我请假在家了好几天，不敢去公司上班，害怕面对老板，也害怕面对同事们。</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>之前老板在酒桌上对我上下其手的举动，想必全公司的人都看见了，这下可好，所有人都知道，我就是小林辞职后的下一个被变态老板看上的倒霉蛋。</answer>
+  </elem>
+</Story>

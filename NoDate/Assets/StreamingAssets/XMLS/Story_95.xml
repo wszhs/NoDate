@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- 关卡设定-->
+  <Story>
+<time>第三天</time>
+  <place>酒桌</place>
+  <image_name>12.jpg</image_name>
+<!-- 大哥剧情 -->
+  <elem>
+    <name></name>
+    <answer>我朝着他背后望去，看到了那桌社会青年，他们似乎也注意到了这边，眼神不善的朝这边看过来。</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>而在他们中间，坐着一个胸前纹了一条青龙的男人，他身量很壮，眼神凶狠，还带着一条手指粗细的大金链子，看起来很不好惹的样子。看来他就是这个人口中的“大哥”。</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>天哪，他们不会是传说中的黑社会吧！</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>我往四周看了看，这么多人，在众目睽睽之下，我不信他们敢直接和我一个女孩动手。</answer>
+  </elem>
+  <elem>
+    <name>我</name>
+    <answer>我小声的说：“这是我先看到的。”</answer>
+  </elem>
+  <elem>
+    <name>社会青年A</name>
+    <answer>社会青年挑了挑眉，似乎没想到我会拒绝他的要求：“哟呵！小姑娘胆子挺肥。你知道我们兄弟是干什么的？”</answer>
+  </elem>
+  <elem>
+    <name>我</name>
+    <answer>我摇头，心里想着不就是无业游民呗，嘴上说：“你们干什么的也要讲究一个先来后到吧。”</answer>
+  </elem>
+  <elem>
+    <name>社会青年A</name>
+    <answer>“我混了这么多年，从来没讲过什么先来后到，今天你让是不让？”</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>我有点害怕，但还是摇了摇头。看向他的身后，那帮社会青年都齐刷刷的看向这边，尤其是中间的大哥，眼神直直的盯着我，四周的食客似乎也注意到了这边的情况，开始窃窃私语。</answer>
+  </elem>
+  <elem>
+    <name>大哥</name>
+    <answer>“叫她过来一起一起吃。”一道低沉的声音响起，原来是大哥发话了。</answer>
+  </elem>
+  <elem>
+    <name>社会青年A</name>
+    <answer>我身边的小弟楞了一下，然后反应过来：“我们大哥叫你过去一趟。”</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>天啊！这下糟了，我好像惹到了黑社会大哥，这可怎么办！我向兰兰那边看过去想向她求救，结果她只抛来一个自求多福的眼神，看来她是要卖队友了……</answer>
+  </elem>
+  <elem>
+    <name>社会青年A</name>
+    <answer>“我们大哥叫你去，你还不去？”</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>在大哥的注视下，在小弟的威压下，我只能硬着头皮，跟着小弟一步一步朝着这帮社会青年的位置走去……</answer>
+  </elem>
+
+</Story>

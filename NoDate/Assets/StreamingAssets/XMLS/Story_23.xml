@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- 关卡设定-->
+  <Story>
+<time>第N天</time>
+  <place>市中心</place>
+  <image_name>4.jpg</image_name>
+<!-- 去市中心逛街 -->
+  <elem>
+    <name>我</name>
+    <answer>“今天天气真好啊！”这一天下午，我难得的离开了家门，去市里逛逛。</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>自从沉迷上网购之后，我就再也没出过门逛街了，除了去楼下超市买一些日用品和生活必需品，别的都通过淘宝来解决。</answer>
+  </elem>
+  <elem>
+    <name>我</name>
+    <answer>“出来逛逛，心情似乎也变好了。”我感叹着。自从快递员那次事情之后，每天都处在担惊受怕的日子里，直到最近搬家了才稍微好一些。</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>不过由于没有收入，且还有一笔新房租开销，日子过得十分拮据，没有什么多余的钱可以给我买东西。</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>我心里想着这次逛街的预算，在每家店也只能试了又试，看了又看，却始终没钱将哪件衣服拿下。</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>“清仓大甩卖——所有商品2折起咯——”商场的中央传来喧嚷的声音，我走过去一看，原来是特价大卖场！</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>一大堆过季的衣服堆得山一般高，许多人正在衣服堆中挑挑选选，寻找着漏网之鱼，我也挤进去，开始翻找着。 </answer>
+  </elem>
+  <elem>
+    <name>我</name>
+    <answer>“真便宜啊，终于有一件我能买得起的了。”我拿起一件衣服看看上面的标价，竟然不到一百块！虽然都是些过季的旧款，里面应该还是能找到一些不会过时的经典款式的。</answer>
+  </elem>
+  <elem>
+    <name>我</name>
+    <answer>“找到了！”我翻出一件小西服样式的外套，是藏蓝色的，式样简洁，很适合在工作的时候穿着。</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>开心的付款之后，我提着这次的战利品回了家，在路上我突然收到一条B同学发来的微信，原来是一条招聘广告，点进去一看，竟然是之前面试失败的那一家！原来他们又开始了新一轮的招聘工作。</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>“要不要投投看呢？”我忍不住心里想着，说不定这次会有好结果。</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>我回忆起了当时面试时的情景，的确，我明明可以表现得更好的。假如这次面试我发挥的比上次好，会不会有机会成功呢？</answer>
+  </elem>
+  <elem>
+    <name>我</name>
+    <answer>“好！”我心里暗暗给自己打气，首先到时候就打扮的大方得体，到时候面试官提问的时候也能更有自信。</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>今天可真是充实的一天啊！我伸了伸懒腰。</answer>
+  </elem>
+</Story>

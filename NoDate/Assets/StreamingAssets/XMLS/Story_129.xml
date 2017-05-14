@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- 关卡设定-->
+  <Story>
+<time>第三天</time>
+  <place>酒桌</place>
+  <image_name>16.jpg</image_name>
+<!-- 大哥的女人结局 -->
+  <elem>
+    <name></name>
+    <answer>从那之后，我的生活似乎是恢复了平静。只是有一些奇怪的地方，比如我周围老有一些身穿黑衣的陌生人，最开始的几次我还以为是自己眼花了，但次数多了我就知道这并不是我的错觉。</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>还比如我还经常能在各种地方“偶遇”大哥，真的有这么巧吗？他怎么总是能知道我在哪？</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>日子久了，我终于感觉到不对劲。</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>又一天下班回家，我并不意外的在楼下看到了熟悉的大哥的身影。</answer>
+  </elem>
+  <elem>
+    <name>我</name>
+    <answer>“你，你到底想干嘛？”我实在是忍不住了，大喊出声。</answer>
+  </elem>
+  <elem>
+    <name>大哥</name>
+    <answer>“我干嘛了？我怎么不知道。”大哥很迷惑不解的样子。</answer>
+  </elem>
+  <elem>
+    <name>我</name>
+    <answer>“别装傻了！我家附近的这些奇怪的人，都是你的小弟吧？你是不是派他们跟踪我？”我气急败坏地说道。</answer>
+  </elem>
+  <elem>
+    <name>大哥</name>
+    <answer>“怎么能是跟踪呢，他们只是在保护你的安全啊。”大哥就像安慰一个不听话的孩子一样。</answer>
+  </elem>
+  <elem>
+    <name>我</name>
+    <answer>“你，你！如果你再这样，我就要报警了！”我气昏了头，大喊道。</answer>
+  </elem>
+  <elem>
+    <name>大哥</name>
+    <answer>“你不会这么做的。”大哥依然是笑着，眼中却没有笑意，“我也不会让你这么做的。”</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>我后脖子一痛，眼前一黑，昏了过去。</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>在昏迷的时候我似乎听到大哥说：“我等不了太久了……”</answer>
+  </elem>
+</Story>

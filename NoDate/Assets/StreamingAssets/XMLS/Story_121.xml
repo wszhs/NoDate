@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- 关卡设定-->
+  <Story>
+<time>第三天</time>
+  <place>酒桌</place>
+  <image_name>4_1.jpg</image_name>
+<!-- 海龟剧情 -->
+  <elem>
+    <name></name>
+    <answer>离开了电影院之后，我才敢大声的喘气。刚才我是怎么逃出那个放映厅，怎么和海归告别的，我都全部想不起来了。</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>但海归似笑非笑的表情，轻柔却可怕的话语还深深地刻在脑海里。</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>天哪！如果按照我理解的那样，海归恐怕真的是个变态，而且还不知道为什么看上了我。</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>自从毕业之后，为什么我老是招惹上各种奇奇怪怪的人？难道我真是流年不利，该去庙里面拜拜了吗？</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>更悲惨的是，在今晚之后，我以后上班要如何面对一个“对我很有兴趣”的上司呢……</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>而我，又该怎么做，才能让海归对我失去兴趣。我烦恼得头都大了。</answer>
+  </elem>
+</Story>

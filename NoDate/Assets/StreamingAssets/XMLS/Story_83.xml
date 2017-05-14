@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- 关卡设定-->
+  <Story>
+<time>第三天</time>
+  <place>酒桌</place>
+  <image_name>1.jpg</image_name>
+  <elem>
+    <name>hr</name>
+    <answer>“……你的情况我们大概了解了，但你上一家公司的离职原因是被辞退，能稍微跟我们说一下吗？”面试进行到一半的时候，hr果然因为这个问题，提问了。</answer>
+  </elem>
+  <elem>
+    <name>我</name>
+    <answer>“……因为我得罪了上一家公司的老板，被他炒了。”我还是如实的说了。</answer>
+  </elem>
+  <elem>
+    <name>hr</name>
+    <answer>“能问问具体是因为什么原因吗？”hr继续追问道。</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>我犹豫了一会，正当我鼓起勇气准备把我被性骚扰的这段经历说出来的时候，突然有一个陌生的人敲了敲会议室的门。</answer>
+  </elem>
+  <elem>
+    <name>hr</name>
+    <answer>“咦，王总！怎么了？”hr转过身去开门，那个王总把她叫出了会议室，然后耳语了一阵。</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>不多久，hr就回来了。</answer>
+  </elem>
+  <elem>
+    <name>hr</name>
+    <answer>“嗯，是这样的，你的情况我们已经基本了解了，你回去等我们的电话吧。”hr没有继续刚才的话题，而是准备结束这场面试。</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>已经不是刚毕业的我当然听出了问题，只能客气的说好的。在临走之前，我开口向hr要了一下微信。她还算爽快的加了我。</answer>
+  </elem>
+</Story>

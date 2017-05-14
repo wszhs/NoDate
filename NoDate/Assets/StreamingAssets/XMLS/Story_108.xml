@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- 关卡设定-->
+  <Story>
+<time>第三天</time>
+  <place>酒桌</place>
+  <image_name>4_1.jpg</image_name>
+<!-- 海龟剧情 -->
+  <elem>
+    <name></name>
+    <answer>回去的路上，我一直想不通，为什么海归非要请我看电影，而且他对我并没有那样的意思。</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>之前在办公室里实在是太丢人了，感觉很自作多情，但是他邀请我看电影这个行为实在是有点暧昧。</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>难道他是真的有什么不能在公司说的事要和我说吗？那为什么非得看电影呢？吃顿饭不就好了吗。</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>不知道明天如何面对海归的我，晚上彻底失眠了。</answer>
+  </elem>
+</Story>

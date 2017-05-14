@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- 关卡设定-->
+  <Story>
+<time>第三天</time>
+  <place>公司</place>
+  <image_name>2.jpg</image_name>
+  <elem>
+    <name></name>
+    <answer>在包养事件过去后的一星期，我的心着实不上不下的悬着，但老板似乎又恢复了神秘，既没有叫我去办公室，也没有给我穿小鞋，我的心才慢慢地放回肚子里。</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>又是一天忙碌的工作，快到下班了，我收拾着东西准备回家。</answer>
+  </elem>
+  <elem>
+    <name>老板</name>
+    <answer>“都稍微等一下！”老板从办公室里出来，笑呵呵地说，“最近大家工作都辛苦了，我打算犒劳一下大家，下班后去下馆子吃饭，我请客！”</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>“好耶！”，“老板英明！”公司上下一片欢呼。</answer>
+  </elem>
+  <elem>
+    <name>我</name>
+    <answer>我有点不想去，戳了戳身边的兰兰，“你要去吗？”</answer>
+  </elem>
+  <elem>
+    <name>兰兰</name>
+    <answer>“去呀，为什么不去？”兰兰说。</answer>
+  </elem>
+  <elem>
+    <name>我</name>
+    <answer>“我不喜欢凑热闹……”我小声说。其实是之前老板提出的条件让我害怕，但我不能直接告诉兰兰。</answer>
+  </elem>
+  <elem>
+    <name>兰兰</name>
+    <answer>“我们才刚进来，老板第一次员工吃饭就不去，也太不给面子了吧，还是去吧！”兰兰说。</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>这么说也有道理。而且去的人那么多，吃完饭我就走，应该没啥关系。</answer>
+  </elem>
+</Story>

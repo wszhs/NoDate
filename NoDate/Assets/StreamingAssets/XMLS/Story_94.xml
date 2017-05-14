@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- 关卡设定-->
+  <Story>
+<time>第三天</time>
+  <place>酒桌</place>
+  <image_name>12.jpg</image_name>
+<!-- 大哥剧情 -->
+  <elem>
+    <name></name>
+    <answer>我朝着他背后望去，看到了那桌社会青年，他们似乎也注意到了这边，眼神不善的朝这边看过来。</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>而在他们中间，坐着一个胸前纹了一条青龙的男人，他身量很壮，眼神凶狠，还带着一条手指粗细的大金链子，看起来很不好惹的样子。看来他就是这个人口中的“大哥”。</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>天哪，他们不会是传说中的黑社会吧！</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>如果跟他们抢了这盘肉，那个大哥会不会叫小弟把我和兰兰砍死在烧烤摊上……</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>毕竟我们只是两个手无缚鸡之力的女生，而且身边也没有男性朋友在场，还是多一事不如少一事吧。惹上了黑社会，那可真不是开玩笑的。</answer>
+  </elem>
+  <elem>
+    <name>我</name>
+    <answer>想到这我赶紧把放在盘子上的手松开了，讪笑着说：“你请你请。”</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>这个社会青年满意的笑了一下，看来我识相的举动非常的正确。</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>我赶紧往他身后看去，那桌社会青年看到我的举动也不再看向这边，而是继续抽烟喝酒互相唠嗑了。无意间我的视线和大哥突然对上，大哥犀利的眼神直直的朝我看过来——</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>我心下一紧，完了完了，我不是都松手了吗，难道大哥还是记上仇了？</answer>
+  </elem>
+  <elem>
+    <name>社会青年A</name>
+    <answer>只见大哥朝我挥了挥手，这个社会青年看到了，立刻明白了，于是和我说：“我们大哥叫你过去一趟。”</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>天啊！这下糟了，我好像惹到了黑社会大哥，这可怎么办！我向兰兰那边看过去想向她求救，结果她只抛来一个自求多福的眼神，看来是要卖队友了……</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>在大哥的注视下，在小弟的威压下，我只能硬着头皮，跟着小弟一步一步朝着这帮社会青年的位置走去……</answer>
+  </elem>
+</Story>

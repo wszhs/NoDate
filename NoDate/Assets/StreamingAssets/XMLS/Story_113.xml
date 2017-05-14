@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- 关卡设定-->
+  <Story>
+<time>第三天</time>
+  <place>酒桌</place>
+  <image_name>9.jpg</image_name>
+<!-- 海龟剧情 -->
+  <elem>
+    <name></name>
+    <answer>我们就近找了一家餐厅，点了几个菜。我不敢放开了吃，吃了个半饱就放下了筷子。</answer>
+  </elem>
+  <elem>
+    <name>海龟</name>
+    <answer>“你吃这么点就饱了？”海归皱眉。</answer>
+  </elem>
+  <elem>
+    <name>我</name>
+    <answer>“嗯……饱了饱了。”我忙不迭点头。</answer>
+  </elem>
+  <elem>
+    <name>海龟</name>
+    <answer>“一会你想去看什么电影？”海归从口袋里掏出手机，似乎准备查查最近的影讯：“国产的我不看。”</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>好嘛，我刚到嘴边的话又咽了回去。刚想说最近新上的一部国产喜剧片据说很好笑，看他的样子怕是完全不会考虑这样的电影。</answer>
+  </elem>
+  <elem>
+    <name>我</name>
+    <answer>“看您的意思呢？”我继续陪笑脸问道。</answer>
+  </elem>
+  <elem>
+    <name>海龟</name>
+    <answer>“唔……不如我带你去一个我朋友开的影院吧，有私人的影厅，里面有很多国内没有上映过的电影。”海归扒拉扒拉手机，似乎没有满意的。</answer>
+  </elem>
+  <elem>
+    <name>我</name>
+    <answer>“这……合适吗？”我小心翼翼地问。</answer>
+  </elem>
+  <elem>
+    <name>海龟</name>
+    <answer>“这有什么不合适的？”海归不耐烦的挥了挥手，“就这么说定了”。</answer>
+  </elem>
+</Story>

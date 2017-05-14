@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- 关卡设定-->
+  <Story>
+<time>第三天</time>
+  <place>酒桌</place>
+  <image_name>2.jpg</image_name>
+  <elem>
+    <name></name>
+    <answer>在家做了几天心理建设了后，我终于鼓起勇气去了公司。迎着同事们好奇或者同情的眼神，我匆匆的在位置上坐下。谁知道屁股还没坐热，等来的确是我被开除的消息。</answer>
+  </elem>
+  <elem>
+    <name>我</name>
+    <answer>“怎么回事？”我问hr。hr的眼神躲躲闪闪，只告诉我这是老板的指示。</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>这下我可坐不住了，我匆匆冲向老板的办公室，问他这是怎么回事。</answer>
+  </elem>
+</Story>

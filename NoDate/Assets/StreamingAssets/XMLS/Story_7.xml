@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- 关卡设定-->
+  <Story>
+  <time>第二天</time>
+  <place>市中心</place>
+  <image_name>4.jpg</image_name>
+    <elem>
+      <name></name>
+      <answer>和朋友小花一起去市里，她拉着我烫了个头发</answer>
+    </elem>
+</Story>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- 关卡设定-->
+  <Story>
+<time>第三天</time>
+  <place>酒桌</place>
+  <image_name>15.jpg</image_name>
+<!-- 大哥剧情 -->
+  <elem>
+    <name></name>
+    <answer>车门关闭，随即便像离弦的箭一样，奔向未知的远方。</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>坐在车里，我才后知后觉的发现，自己似乎上了贼船，并且难以下来了。</answer>
+  </elem>
+</Story>

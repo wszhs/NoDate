@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- 关卡设定-->
+  <Story>
+<time>第三天</time>
+  <place>酒桌</place>
+  <image_name>12_1.jpg</image_name>
+<!-- 大哥剧情 -->
+  <elem>
+    <name>我</name>
+    <answer>“我手笨，剥不好蒜！”</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>大哥的话中之意已经十分明显了，他想让我做大哥的女人！</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>我怎么可能会答应？</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>但是大哥毕竟是大哥，无论怎么样也不能直接拨了他的面子。</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>我于是找了个非常弱智的理由，搪塞了一下。</answer>
+  </elem>
+  <elem>
+    <name>大哥</name>
+    <answer>“没事，我有耐心，你手笨我可以慢慢教你。”大哥寸步不让，步步紧逼。</answer>
+  </elem>
+  <elem>
+    <name>我</name>
+    <answer>“……我真的十分感谢你的好意，但是我真的不适合干这个。”我虽然害怕，但还是坚定的拒绝了。</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>大哥似乎惊讶于我的直白，愣了一会，没有说话。</answer>
+  </elem>
+  <elem>
+    <name>我</name>
+    <answer>“天色也不早了，我就先走了……今天很高兴和你一起撸串。”我看大哥怔愣着，打算借机离开。</answer>
+  </elem>
+  <elem>
+    <name>大哥</name>
+    <answer>“你是真的不愿意做我的剥蒜小妹吗？”大哥声音从背后穿来，闷闷的。</answer>
+  </elem>
+  <elem>
+    <name>我</name>
+    <answer>“……是的，对不起。”我没有回头，还是拒绝了大哥。</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>大哥久久没有说话，而我也没有回头，选择了离开。</answer>
+  </elem>
+</Story>

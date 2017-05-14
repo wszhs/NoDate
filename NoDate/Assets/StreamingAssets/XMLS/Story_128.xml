@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- 关卡设定-->
+  <Story>
+<time>第三天</time>
+  <place>酒桌</place>
+  <image_name>15.jpg</image_name>
+<!-- 大哥的女人结局 -->
+  <elem>
+    <name></name>
+    <answer>飞驰的汽车在夜里像一道箭。飞速而平稳的向前行驶着。</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>看着车窗外熟悉的景色，大哥没有食言，果然是要把我送回家的。</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>我稍稍松了一口气。</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>不一会儿，车就停下了。我下了车，和大哥说了再见后便上楼了。</answer>
+  </elem>
+  <elem>
+    <name>小弟</name>
+    <answer>“就这么放她走了吗？”在我离开后，小弟对大哥小声说道。</answer>
+  </elem>
+  <elem>
+    <name>大哥</name>
+    <answer>“呵呵……心急可吃不了热豆腐。”大哥摸着下巴笑了，挥手让司机开车，离开了我家楼下。</answer>
+  </elem>
+</Story>

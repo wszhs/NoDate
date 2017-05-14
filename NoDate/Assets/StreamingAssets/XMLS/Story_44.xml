@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- 关卡设定-->
+  <Story>
+<time>第三天</time>
+  <place>公司</place>
+  <image_name>10.jpg</image_name>
+  <elem>
+    <name>老板</name>
+    <answer>“请进！”进门之后，老板没有多看我，拿出了一份报表说，“这是你做的吧？这、这、这，都没有检查好，回去重做，做好交过来。”</answer>
+  </elem>
+  <elem>
+    <name>我</name>
+    <answer>“好，好的。”我诚惶诚恐的接过，轻手轻脚的带上门离开。</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>老板对我的态度没有什么特别的，说的事也纯粹是公事……</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>我修改了之后再核对了几遍，确认无误后再次敲响了老板的办公室门。</answer>
+  </elem>
+  <elem>
+    <name>我</name>
+    <answer>“我改好了，请过目。”我小声地说着，连喘气都不敢。</answer>
+  </elem>
+  <elem>
+    <name>老板</name>
+    <answer>“……嗯，可以了。下次工作要认真，不要再犯这种错误！”老板放下眼镜，揉了揉鼻梁。</answer>
+  </elem>
+  <elem>
+    <name>我</name>
+    <answer>“好的，那我先回去工作了。”我舒了一口气，看来没什么大事。</answer>
+  </elem>
+  <elem>
+    <name>老板</name>
+    <answer>“……等一下。”老板叫住我。</answer>
+  </elem>
+  <elem>
+    <name>我</name>
+    <answer>“……有什么事吗？”我回头。</answer>
+  </elem>
+  <elem>
+    <name>老板</name>
+    <answer>“噢……没什么事，”老板锤了锤肩膀，转了转脖子。“我最近出差太忙，工作又多，颈椎很不舒服，你过来给我揉揉肩膀捶捶背！”</answer>
+  </elem>
+
+</Story>

@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- 关卡设定-->
+  <Story>
+<time>第N天</time>
+  <place>家</place>
+  <image_name>14.jpg</image_name>
+<elem>
+    <name></name>
+    <answer>虽然这次的面试时间是下午，但我仍旧起了个大早。</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>我复习了一下专业上的知识，再次检查了一下自己的简历，然后整理好仪容仪表，提前出门了。</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>这三天，我几乎天天泡在图书馆里，虽说感觉并没有什么很大的长进，但总觉得肚子里稍微有点货了，至少在内心上稍微自信了一些。</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>也许今天的面试能成功呢？我暗暗想到。</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>一点半就到了指定的面试地点，面试进行的很顺利，也许是之前几天的图书馆的帮助，这次在hr的面前终于不再那么紧张，发挥比较正常了。</answer>
+  </elem>
+  <elem>
+    <name>hr</name>
+    <answer>“你的简历我们看了，你还是比较符合我们公司的要求的，先实习两个月然后正式入职。”</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>太好了！终于可以毕业后不做一个无业游民，该在上班前快活几天了！看书果然对面试有所帮助，至少能让人不那么紧张。</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>从今天起，我也是上班族了！</answer>
+  </elem>
+
+</Story>

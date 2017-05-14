@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- 关卡设定-->
+  <Story>
+<time>第N天</time>
+  <place>市中心</place>
+  <image_name>4.jpg</image_name>
+<!-- 去市中心逛街 -->
+   <elem>
+    <name></name>
+    <answer>去逛了一天街</answer>
+  </elem>
+
+</Story>

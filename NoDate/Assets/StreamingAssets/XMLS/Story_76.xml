@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- 关卡设定-->
+  <Story>
+<time>第三天</time>
+  <place>酒桌</place>
+  <image_name>18_1.jpg</image_name>
+  <elem>
+    <name></name>
+    <answer>咔哒一声，老板锁上了房间门。</answer>
+  </elem>
+  <elem>
+    <name>老板</name>
+    <answer>“呵呵，我知道你会来的……”老板淫笑着，他穿着一身浴袍，去掉了那身西装皮后，显得更加猥琐了。</answer>
+  </elem>
+  <elem>
+    <name>我</name>
+    <answer>我背靠着门，故作镇定；“我已经到了，说好的两万呢？”</answer>
+  </elem>
+  <elem>
+    <name>老板</name>
+    <answer>“这还不好说？”老板在我面前掏出手机，操作了一番，不多久我的手机传来了振动，我打开一看，是银行发来的，显示我有两万的入账。</answer>
+  </elem>
+  <elem>
+    <name>老板</name>
+    <answer>“……现在，钱你也收下了，人也到了，那么，我就不客气了。”老板一步步逼近我，在他色欲熏心的眼睛里，我看到了颤抖不安的自己。想要离开这里，却没有夺门而出的勇气……</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>我闭上了眼，再一次选择了忍耐。</answer>
+  </elem>
+</Story>

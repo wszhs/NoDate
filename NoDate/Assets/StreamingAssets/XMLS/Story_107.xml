@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- 关卡设定-->
+  <Story>
+<time>第三天</time>
+  <place>酒桌</place>
+  <image_name>8.jpg</image_name>
+<!-- 海龟剧情 -->
+  <elem>
+    <name></name>
+    <answer>什么？海归刚才是邀请我去看电影吗？</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>难道他是要追求我吗？我想到这害羞的脸都红了。</answer>
+  </elem>
+  <elem>
+    <name>我</name>
+    <answer>“真，真的吗。”</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>他居然邀请我看电影！好兴奋啊！</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>要是让兰兰知道了她恐怕会嫉妒死我。虽然这个海归非常高傲，还喜欢装逼，但毕竟是一个高富帅。</answer>
+  </elem>
+  <elem>
+    <name>海龟</name>
+    <answer>“真的呀。”海归露出了一副似笑非笑的表情：“那么你是同意了。”</answer>
+  </elem>
+  <elem>
+    <name>我</name>
+    <answer>“……好，好的。”我感到非常害羞，低下了头。</answer>
+  </elem>
+  <elem>
+    <name>海龟</name>
+    <answer>海归看着我的样子，突然扑哧的笑了：“你不会觉得我在泡你吧？”</answer>
+  </elem>
+  <elem>
+    <name>我</name>
+    <answer>我震惊得抬头：“啊？那你为什么要……”</answer>
+  </elem>
+  <elem>
+    <name>海龟</name>
+    <answer>海归的眼睛里有淡淡的不屑：“你想的太多了。好了，明天晚上下班别走，就这么定了。”</answer>
+  </elem>
+  <elem>
+    <name>我</name>
+    <answer>我讷讷的说不出话，只能说了声好，然后离开了公司。</answer>
+  </elem>
+</Story>

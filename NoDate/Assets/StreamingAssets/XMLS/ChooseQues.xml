@@ -1,0 +1,305 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- 关卡设定-->
+<ChooseQues>
+  
+  <elem>
+    <!--选项 -->
+    <id>0</id>
+    <question>下午你要去哪里?</question>
+    <answer_a>A.去图书馆</answer_a>
+    <answer_b> B.在宿舍呆着</answer_b>
+    <answer_c>C.去市中心买衣服</answer_c>
+    <value_a>001211</value_a>
+    <value_b></value_b>
+    <value_c>101211</value_c>
+    <image_name>14.jpg</image_name>
+    
+  </elem>
+
+  <elem>
+    <!--选项 -->
+    <id>1</id>
+    <question>今天离面试还有两天，决定做些什么呢？</question>
+    <answer_a>A.去图书馆</answer_a>
+    <answer_b> B.在宿舍呆着</answer_b>
+    <answer_c>C.去市中心买衣服</answer_c>
+    <value_a>001211</value_a>
+    <value_b></value_b>
+    <value_c>101211</value_c>
+    <image_name>14.jpg</image_name>
+  </elem>
+
+  <elem>
+    <!--选项 -->
+    <id>2</id>
+    <question>今天离面试还有一天，决定做些什么呢？</question>
+    <answer_a>A.去图书馆</answer_a>
+    <answer_b> B.在宿舍呆着</answer_b>
+    <answer_c>C.去市中心买衣服</answer_c>
+    <value_a>001211</value_a>
+    <value_b></value_b>
+    <value_c>101211</value_c>
+    <image_name>14.jpg</image_name>
+  </elem>
+
+  <elem>
+    <!--选项 -->
+    <id>3</id>
+    <question>要不要定个闹钟呢？</question>
+    <answer_a>A.定早上7:30的闹钟</answer_a>
+    <answer_b>B.定早上8:30的闹钟</answer_b>
+    <answer_c>C.不定闹钟</answer_c>
+    <value_a></value_a>
+    <value_b></value_b>
+    <value_c></value_c>
+    <image_name>14.jpg</image_name>
+  </elem>
+
+  <elem>
+    <!--选项 -->
+    <id>4</id>
+    <question>敲门说快递来了，你要不要给陌生的快递员开门？</question>
+    <answer_a>A.开门拿快递</answer_a>
+    <answer_b>B.不开门做一个怂逼</answer_b>
+    <answer_c>C.卷起袖子和他干架</answer_c>
+    <value_a></value_a>
+    <value_b></value_b>
+    <value_c>215</value_c>
+    <image_name>14.jpg</image_name>
+  </elem>
+
+  <elem>
+    <!--选项 -->
+    <id>5</id>
+    <question>闲在家的日子里，你要做什么呢？</question>
+    <answer_a>A.去图书馆</answer_a>
+    <answer_b>B.在家呆着</answer_b>
+    <answer_c>C.去市中心买衣服</answer_c>
+    <value_a>001211</value_a>
+    <value_b></value_b>
+    <value_c>101211</value_c>
+    <image_name>14.jpg</image_name>
+  </elem>
+
+  <elem>
+    <!--选项 -->
+    <id>6</id>
+    <question>闲在家的日子里，你要做什么呢？</question>
+    <answer_a>A.去图书馆</answer_a>
+    <answer_b>B.在家呆着</answer_b>
+    <answer_c>C.去市中心买衣服</answer_c>
+    <value_a>001211</value_a>
+    <value_b></value_b>
+    <value_c>101211</value_c>
+    <image_name>14.jpg</image_name>
+  </elem>
+
+  <elem>
+    <!--选项 -->
+    <id>7</id>
+    <question>闲在家的日子里，你要做什么呢？</question>
+    <answer_a>A.去图书馆</answer_a>
+    <answer_b>B.在家呆着</answer_b>
+    <answer_c>C.去市中心买衣服</answer_c>
+    <value_a>001211</value_a>
+    <value_b></value_b>
+    <value_c>101211</value_c>
+    <image_name>14.jpg</image_name>
+  </elem>
+
+  <elem>
+    <!--选项 -->
+    <id>8</id>
+    <question>闲在家的日子里，你要做什么呢？</question>
+    <answer_a>A.去图书馆</answer_a>
+    <answer_b>B.在家呆着</answer_b>
+    <answer_c>C.去市中心买衣服</answer_c>
+    <value_a>001211</value_a>
+    <value_b></value_b>
+    <value_c>101211</value_c>
+    <image_name>14.jpg</image_name>
+  </elem>
+
+  <elem>
+    <!--选项 -->
+    <id>9</id>
+    <question>闲在家的日子里，你要做什么呢？</question>
+    <answer_a>A.去图书馆</answer_a>
+    <answer_b>B.在家呆着</answer_b>
+    <answer_c>C.去市中心买衣服</answer_c>
+    <value_a>001211</value_a>
+    <value_b></value_b>
+    <value_c>101211</value_c>
+    <image_name>14.jpg</image_name>
+  </elem>
+
+  <elem>
+    <!--选项 -->
+    <id>10</id>
+    <question>要不要去医院体检呢？</question>
+    <answer_a>A.去</answer_a>
+    <answer_b>B.不去</answer_b>
+    <answer_c></answer_c>
+    <value_a>205</value_a>
+    <value_b>215</value_b>
+    <value_c></value_c>
+    <image_name>16.jpg</image_name>
+  </elem>
+
+  <elem>
+    <!--选项 -->
+    <id>11</id>
+    <question>老板让你给他捶背，你要不要做？</question>
+    <answer_a>A.只能背叛自己的灵魂了</answer_a>
+    <answer_b>B.直接拒绝</answer_b>
+    <answer_c>C.装作捶背无意中把他的茶杯打翻</answer_c>
+    <value_a>302101212</value_a>
+    <value_b>402211</value_b>
+    <value_c>001211</value_c>
+    <image_name>10.jpg</image_name>
+  </elem>
+  
+  <elem>
+    <!--选项 -->
+    <id>12</id>
+    <question>老板直言问你多少钱，你该怎么做？</question>
+    <answer_a>A.搪塞过去</answer_a>
+    <answer_b>B.拒绝</answer_b>
+    <answer_c>C.直接拒绝</answer_c>
+    <value_a>302101211</value_a>
+    <value_b>401101211</value_b>
+    <value_c>402211</value_c>
+    <image_name>5_1.jpg</image_name>
+  </elem>
+
+  <elem>
+    <!--选项 -->
+    <id>13</id>
+    <question>老板对你下手了！你该怎么办？</question>
+    <answer_a>A.只能忍耐了</answer_a>
+    <answer_b>B.一巴掌扇在他的大脸上</answer_b>
+    <answer_c>C.和他虚与委蛇，搜集证据日后报复</answer_c>
+    <value_a>302101212</value_a>
+    <value_b>402211</value_b>
+    <value_c>301102001211</value_c>
+    <image_name>9_1.jpg</image_name>
+  </elem>
+
+  <elem>
+    <!--选项 -->
+    <id>14</id>
+    <question>要不要去医院体检呢？</question>
+    <answer_a>A.去</answer_a>
+    <answer_b>B.不去</answer_b>
+    <answer_c></answer_c>
+    <value_a>702101211</value_a>
+    <value_b>801001211</value_b>
+    <value_c>802212</value_c>
+    <image_name>16.jpg</image_name>
+  </elem>
+
+  <elem>
+    <!--选项 -->
+    <id>15</id>
+    <question>新来的同事很帅，女同事们都冲上去大献殷勤，你呢？</question>
+    <answer_a>A.不为所动</answer_a>
+    <answer_b>B.等人少点了再去</answer_b>
+    <answer_c>C.推开所有人挤到最前面搭话</answer_c>
+    <value_a>702101211</value_a>
+    <value_b>801001211</value_b>
+    <value_c>802212</value_c>
+    <image_name>2.jpg</image_name>
+  </elem>
+
+  <elem>
+    <!--选项 -->
+    <id>16</id>
+    <question>海龟邀你下班后和他一起看电影，去不去？</question>
+    <answer_a>A.直言不去</answer_a>
+    <answer_b>B.他居然邀请我看电影！好兴奋啊！</answer_b>
+    <answer_c>C.“我还要加班”</answer_c>
+    <value_a>702101211</value_a>
+    <value_b>802211</value_b>
+    <value_c>001211</value_c>
+    <image_name>8.jpg</image_name>
+  </elem>
+
+  <elem>
+    <!--选项 -->
+    <id>17</id>
+    <question>你发现海龟好像有点异于常人的兴趣，你该怎么回答他？</question>
+    <answer_a>A."恕我直言，你恐怕是个变态"</answer_a>
+    <answer_b>B.“其实我也想试试！”</answer_b>
+    <answer_c>C.“五十度灰这部小说太幼稚了”</answer_c>
+    <value_a>702101</value_a>
+    <value_b>802211</value_b>
+    <value_c>701101001211</value_c>
+    <image_name>20_1.jpg</image_name>
+  </elem>
+
+  <elem>
+    <!--选项 -->
+    <id>18</id>
+    <question>要不要去医院体检呢？</question>
+    <answer_a>A.去</answer_a>
+    <answer_b>B.不去</answer_b>
+    <answer_c></answer_c>
+    <value_a>205</value_a>
+    <value_b>215</value_b>
+    <value_c></value_c>
+    <image_name>16.jpg</image_name>
+  </elem>
+
+  <elem>
+    <!--选项 -->
+    <id>19</id>
+    <question>还剩最后一盘五花肉了，怎么办呢？</question>
+    <answer_a>A.让给别人</answer_a>
+    <answer_b>B.不让，这是我的肉</answer_b>
+    <answer_c>C.直接抢他娘的</answer_c>
+    <value_a>502101211</value_a>
+    <value_b>601101211</value_b>
+    <value_c>602212</value_c>
+    <image_name>12.jpg</image_name>
+  </elem>
+
+  <elem>
+    <!--选项 -->
+    <id>20</id>
+    <question>看起来很不好惹的大哥让你过去和他一起吃？</question>
+    <answer_a>A.为大哥剥蒜</answer_a>
+    <answer_b>B.“不去，滚！”</answer_b>
+    <answer_c>C."开始演戏转移话题“我肚子好痛这串里有毒”（</answer_c>
+    <value_a>502101211</value_a>
+    <value_b>602211</value_b>
+    <value_c>001211</value_c>
+    <image_name>12.jpg</image_name>
+  </elem>
+
+  <elem>
+    <!--选项 -->
+    <id>21</id>
+    <question>大哥想让你做他的剥蒜小妹，如果你同意就送你一件貂，你该怎么办？</question>
+    <answer_a>A.谁不爱貂呢？</answer_a>
+    <answer_b>B.“我不要你的貂，也不做你的人！”</answer_b>
+    <answer_c>C.“我手笨，剥不好蒜！”</answer_c>
+    <value_a>502101</value_a>
+    <value_b>602211</value_b>
+    <value_c>501102001211</value_c>
+    <image_name>12_1.jpg</image_name>
+  </elem>
+
+  <elem>
+    <!--选项 -->
+    <id>22</id>
+    <question>要不要去医院体检呢？</question>
+    <answer_a>A.去</answer_a>
+    <answer_b>B.不去</answer_b>
+    <answer_c></answer_c>
+    <value_a>205</value_a>
+    <value_b>000000000</value_b>
+    <value_c>215</value_c>
+    <image_name>16.jpg</image_name>
+  </elem>
+  
+</ChooseQues>

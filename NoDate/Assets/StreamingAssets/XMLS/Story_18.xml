@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- 关卡设定-->
+  <Story>
+<time>第三天</time>
+  <place>宿舍</place>
+  <image_name>14.jpg</image_name>
+ <elem>
+    <name></name>
+    <answer>“咚咚咚——”门口的敲门声持续不断，我却开始怀疑，这真的是快递吗？</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>以往的快递，都是会先打一个电话通知快递来了，然后再让我下楼去取，从来没有上门直接敲门过。</answer>
+  </elem>
+  <elem>
+    <name>我</name>
+    <answer>“不对劲，这和以前不一样！”我思索了一下，在大门上的猫眼处看了看，是一个身着快递员制服的年轻人，手里捧着一个箱子，头上戴着一顶帽子，看不清脸。正在来回踱着步。</answer>
+  </elem>
+  <elem>
+    <name>我</name>
+    <answer>“好像真是送快递的，但还是不敢开门。”我心里感觉毛毛的，还是回到了房间，任凭他怎样敲门，我还是岿然不动。</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>如果是真的快递的话，肯定会打电话给我的。也有可能是走错门了？我心里这样想到，继续看起了淘宝。</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>门口的敲门声，持续了一段时间后便停止了。</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>而我也没太在意，就直接忘了这件事。第二天，有电话打来，是快递，我的鞋子到了。</answer>
+  </elem>
+  <elem>
+    <name>我</name>
+    <answer>“那昨天的敲门是什么呢？我除了这个鞋子以外没有买其他东西了呀？”我不解地想着，可能真的是走错门了吧。</answer>
+  </elem>
+</Story>

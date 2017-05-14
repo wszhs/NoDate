@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- 关卡设定-->
+  <Story>
+<time>第三天</time>
+  <place>酒桌</place>
+  <image_name>8.jpg</image_name>
+<!-- 海龟剧情 -->
+  <elem>
+    <name></name>
+    <answer>办公室还是和之前的总管在的时候一样，没有什么太大的变化。</answer>
+  </elem>
+  <elem>
+    <name>海龟</name>
+    <answer>海龟坐下之后，沉默了好久一会，才说：“你觉得我这个主管怎么样？”</answer>
+  </elem>
+  <elem>
+    <name>我</name>
+    <answer>我一时间摸不着头脑，只能说：“很好啊！”</answer>
+  </elem>
+  <elem>
+    <name>海龟</name>
+    <answer>“……恩，其实也没什么大事。就是我毕竟是刚来的，想问问你一些情况。”</answer>
+  </elem>
+  <elem>
+    <name>我</name>
+    <answer>我忙不迭的说：“你有什么想知道的都可以问我的，不过我也来公司没多久，能帮上忙的我一定帮。”</answer>
+  </elem>
+  <elem>
+    <name>海龟</name>
+    <answer>“那你先随便跟我说一点吧。”</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>我沉思着，挑了一些不太紧要的和海龟说了。</answer>
+  </elem>
+  <elem>
+    <name>海龟</name>
+    <answer>海龟又再次沉默了一会，然后终于开口了：“是这样，你明晚有空吗？”</answer>
+  </elem>
+  <elem>
+    <name>我</name>
+    <answer>“这个……公司有什么事吗？”</answer>
+  </elem>
+  <elem>
+    <name>海龟</name>
+    <answer>海龟把玩着手上的钢笔，说道：“为了感谢一下你，也为了以后更好的工作，明天我可以请你看场电影吗？顺便吃个饭。”</answer>
+  </elem>
+</Story>

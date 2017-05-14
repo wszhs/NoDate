@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- 关卡设定-->
+  <Story>
+<time>第三天</time>
+  <place>酒桌</place>
+  <image_name>2.jpg</image_name>
+<!-- 海龟剧情 -->
+  <elem>
+    <name></name>
+    <answer>由于经历了昨晚烧烤摊上发生的事，整个人惊魂未定，白天完全无心工作。</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>一到了下班时间，我立刻提着包准备走人。而经过海龟的办公室时，我能肯定上次不是错觉，因为这一次海龟的视线直直的盯着我，看得人鸡皮疙瘩都起来了。</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>但我都已经收拾好东西起身了，难道还坐回座位吗？我没有多想，快步的打卡离开了。</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>海龟的视线仿佛实质化了一样刺着我的后背，我越走越快，甚至最后跑出了公司大门。</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>第二天上班，我决心今天再也不能做第一个离开办公室的人了。</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>这位归国的海龟很可能是一个工作狂，看不得人在他眼皮子底下偷懒。而且他毕竟是我的主管，不说留下一个好印象，怎么也不能留下一个坏印象啊。</answer>
+  </elem>
+  <elem>
+    <name>海龟</name>
+    <answer>下班时间到了，我看着办公室里的人一个个陆续的离开了，这才准备慢悠悠的离开公司。正当我低头收拾东西的时候，突然头顶上方传来一个声音：“我能和你聊聊吗？”</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>我抬头，居然是海龟！</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>天哪，难道是之前的事情已经让他记在心里，所以他这次就专门来和我谈话了？</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>但是主管的要求下属不能不从。我只能嘴上说着好的，然后跟他进了办公室。</answer>
+  </elem>
+</Story>

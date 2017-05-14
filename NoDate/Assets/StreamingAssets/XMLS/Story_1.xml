@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- 关卡设定-->
+  <Story>
+  <time>第一天</time>
+  <place>宿舍</place>
+  <image_name>14.jpg</image_name>
+  <elem>
+    <name>hr</name>
+    <answer>"喂，你好!"</answer>
+  </elem>
+  <elem>
+    <name>我</name>
+    <answer>"是我没错！"</answer>
+  </elem>
+  <elem>
+    <name>hr</name>
+    <answer>“三天后的早上九点是吗？好的，我知道了，再见。”  </answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>我放下电话，从床上坐起身。原来刚才是XX公司hr的来电，她通知我，之前我投递的简历他们收到了，并且通过了初步审核，邀请我三天后早上九点参加公司的面试。 </answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>这并不是我收到的第一个面试通知。之前也参加过三场面试，但最后的结果都是以“我们将会通过电话联系您”而不了了之了。</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>说真的，内心也出现过“干脆放弃吧”的想法，连续的几次失败，深深地打击了我的自信。在学校中，我就是典型的那种透明人，学习中等，外貌普通，不参与任何社团活动，也没有什么特别的一技之长，放在人堆里也挑不出来的那种典型。</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>正如那句“毕业即失业”，现在的我正面临着找不到工作在家待业的危机。也许，这一通电话是一次机会，把握住或许这次就能顺利的得到工作！但更大的可能，还是跟前几次一样，被hr礼貌的拒绝了吧……我思考着，要不要趁这三天，做些什么呢？</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>室友小红每天都去图书馆看书，要不要和她一起去？好朋友小花约自己下午出门逛街，也许该买套衣服面试的时候穿。或者还是在宿舍里休息吧。</answer>
+  </elem>
+</Story>

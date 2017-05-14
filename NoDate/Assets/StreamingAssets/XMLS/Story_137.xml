@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- 关卡设定-->
+  <Story>
+<time>第三天</time>
+  <place>酒桌</place>
+  <image_name>2.jpg</image_name>
+<!--五十度灰结局-->
+  <elem>
+    <name></name>
+    <answer>正如海归所说，他的确对我产生了兴趣，不仅如此，他也不吝于表现这种对我特殊的兴趣。</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>所以很快的，大家都看出了海归正在如火如荼的“追求”我。</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>兰兰也看出来了，她认为我当面一套背后一套，表面上对海归无动于衷的样子，背后却使一些下作手段勾引他。</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>对于兰兰的指责，我真是有苦说不出。很快地，我们就逐渐疏远了。</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>而我真的对于海归的追求无动于衷吗？随着时间的推移，我越来越动摇了。毕竟他年轻，英俊，有着精英的气质还有留洋的经历……所有的一切都让我很难不动心。</answer>
+  </elem>
+</Story>

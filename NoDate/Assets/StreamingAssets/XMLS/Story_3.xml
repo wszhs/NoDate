@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- 关卡设定-->
+  <Story>
+  <time>第一天</time>
+  <place>宿舍</place>
+  <image_name>14.jpg</image_name>
+    <elem>
+      <name></name>
+      <answer>唉，估计这次的面试，最终也不会有什么结果的。我心灰意冷的想着，决定继续在床上躺着玩手机</answer>
+    </elem>
+    <elem>
+      <name>小红</name>
+      <answer>“我要去图书馆了，你要和我一起去吗？”室友小红的声音从床下传来。</answer>
+    </elem>
+    <elem>
+      <name>我</name>
+      <answer>“你去吧，我不去啦，感觉去图书馆也没什么事可做。”</answer>
+    </elem>
+    <elem>
+      <name>小红</name>
+      <answer>“那我走啦，拜拜。”小红拿着书走了。</answer>
+    </elem>
+    <elem>
+      <name>我</name>
+      <answer>“拜拜。”我在心里挥了挥手，看着勤奋的室友，再看看懒惰的自己，内心的失落感更加严重了。</answer>
+    </elem>
+    <elem>
+      <name></name>
+      <answer>室友小红自从上学期决定考研之后，就经常去图书馆学习，有时候下雨也打着伞去，非常努力，也是一个内心有打算的人，不像自己浑浑噩噩的……</answer>
+    </elem>
+    <elem>
+      <name></name>
+      <answer>也许我也该去图书馆看看书？大学四年总共也没去过几次图书馆，就这么毕业了也太可惜了吧。就算对找工作没什么实际的用处，看看书打发一下时间也挺好的。我心里这么想着，在宿舍呆着一天就这么白白的过去了，好像真的挺浪费生命的。</answer>
+    </elem>
+    <elem>
+      <name></name>
+      <answer>在床上躺着躺着就困了，我决定闭上眼睛睡一觉……</answer>
+    </elem>
+
+</Story>

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- 关卡设定-->
+  <Story>
+<time>第三天</time>
+  <place>公司</place>
+  <image_name>4_1.jpg</image_name>
+  <elem>
+    <name></name>
+    <answer>出了办公楼，夜色如洗，天已经全黑了。</answer>
+  </elem>
+  <elem>
+    <name>老板</name>
+    <answer>“真的不坐我的车回去吗？”</answer>
+  </elem>
+  <elem>
+    <name>我</name>
+    <answer>“不用麻烦了，还不算太晚，我坐地铁就好。”我推辞了。</answer>
+  </elem>
+  <elem>
+    <name>老板</name>
+    <answer>“那好吧，路上小心点哦~”老板挥了挥手。</answer>
+  </elem>
+  <elem>
+    <name>我</name>
+    <answer>“老板再见！”看着老板走到路边停着的一辆豪车跟前，上了车疾驰而去，在联想到刚才电梯间里发生的事情，陷入了沉思。</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>如果真的跟了老板会怎样？那么会变的比现在有钱的多吧。老板会给我买车买房，哪怕买不了这么好的车，买个普通的小车也好啊，这样就不用天天奔波在上下班的路上了。</answer>
+  </elem>
+  <elem>
+    <name>我</name>
+    <answer>“你怎么会被金钱腐蚀！”我拍醒自己，匆匆的走向地铁站准备回家。</answer>
+  </elem>
+</Story>

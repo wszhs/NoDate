@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- 关卡设定-->
+  <Story>
+<time>第三天</time>
+  <place>酒桌</place>
+  <image_name>2.jpg</image_name>
+<!-- 海龟剧情 -->
+  <elem>
+    <name></name>
+    <answer>慢悠悠地工作到了下班时间，兰兰用眼神示意我一起走，我摇了摇头。</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>兰兰疑惑地走了。</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>哎……看了看关闭的海归办公室大门，我实在是不敢违背海归的命令贸然离开啊。</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>哪怕手上已经没有活儿了，但我还是只能坐在椅子上，等待着海归的传唤。</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>“吱呀”一声，海归办公室的门打开了。果不其然，他推开门的第一件事就是朝我的位置上看了一眼，见我还乖乖的留在公司，满意的点了点头。</answer>
+  </elem>
+  <elem>
+    <name>海龟</name>
+    <answer>“走吧”</answer>
+  </elem>
+  <elem>
+    <name>我</name>
+    <answer>“哦！”我应了一声，赶紧抓起东西跟上海归的脚步。</answer>
+  </elem>
+</Story>

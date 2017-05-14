@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- 关卡设定-->
+  <Story>
+<time>第三天</time>
+  <place>酒桌</place>
+  <image_name>3.jpg</image_name>
+  <elem>
+    <name></name>
+    <answer>从此之后，我过上了我之前想也没有想过的生活。我从一个平凡的大学生，变成了一个被包养的大学生。</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>住在老板买的一处公寓里，开着老板给我买的跑车，而我的工作就是等着老板过来，让他满意。</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>而一旦习惯了这样的生活，我也就越发心安理得起来。毕竟这样赚的钱又多又轻松。</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>只是在爸妈打电话询问我的近况时，内心会格外不安，我撒谎说在这里找了一份很不错的工作，爸妈不疑有他，还很为我高兴，每当这时候，我的不安和负罪感就更加深重。</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>我很清楚，是我自己一次次的软弱，一次次的忍耐，造成了今天的结果。我不敢去反抗，不敢直接说不，而一次次降低自己的底线，会不会有哪一天，我变成连底线也没有的人了？</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>“叮咚——”门铃响了，看来是老板来我这里了。</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>我闭上眼睛，不再去想那些七七八八的。对着镜子稍微整理了一下自己，笑容满面的起身打开门，开始我新的工作——</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>【Bad End：老板的小蜜】</answer>
+  </elem>
+</Story>

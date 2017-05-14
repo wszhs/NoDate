@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- 关卡设定-->
+  <Story>
+<time>第三天</time>
+  <place>酒桌</place>
+  <image_name>14.jpg</image_name>
+  <elem>
+    <name></name>
+    <answer>在家消沉了几天，这个月发下来的工资很快就不够用了。因为我是刚刚毕业，所以也没有什么存款，不能这样坐在家里坐吃山空。</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>我振作了一下精神，开始投简历。但很奇怪的事是，所有的简历都石沉大海，甚至连一个面试的机会都没有。</answer>
+  </elem>
+  <elem>
+    <name>我</name>
+    <answer>“这太奇怪了……”我觉得不对，哪怕是之前没毕业的我，那么困难的找工作的时候，也都有几个面试机会，而不像现在这样一个面试都没有。</answer>
+  </elem>
+  <elem>
+    <name>我</name>
+    <answer>“难道是因为被开除的经历，所以没有公司要我吗？”我的离职报告上写的是辞退，难道是因为这个缘故，所以没有公司要我吗？</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>又等了好几天</answer>
+  </elem>
+    <elem>
+      <name></name>
+      <answer>我的手机突然响了，终于等来了一个面试的通知。</answer>
+    </elem>
+  <elem>
+    <name>我</name>
+    <answer>“太好了！”挂掉电话后我开心的想着，天无绝人之路。在这次面试上我一定要好好发挥，争取留下。</answer>
+  </elem>
+</Story>

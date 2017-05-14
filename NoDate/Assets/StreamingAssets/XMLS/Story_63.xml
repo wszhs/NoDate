@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- 关卡设定-->
+  <Story>
+<time>第三天</time>
+  <place>酒桌</place>
+  <image_name>9.jpg</image_name>
+  <elem>
+    <name>我</name>
+    <answer>“让我再考虑考虑吧。”我僵笑着忍耐，好不容易应付过去了，我才回到了饭桌上，我想着刚才发生的事，酒也吓醒了。</answer>
+  </elem>
+  <elem>
+    <name>同事</name>
+    <answer>“你还好吧？要不要先回去？”旁边同事关心的问道。</answer>
+  </elem>
+  <elem>
+    <name>我</name>
+    <answer>“嗯，也好……到时候你就说我喝多了不舒服，我先走了。”我抓起包匆匆的就走了。</answer>
+  </elem>
+</Story>

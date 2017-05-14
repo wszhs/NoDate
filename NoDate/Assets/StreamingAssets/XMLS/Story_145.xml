@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- 关卡设定-->
+  <Story>
+<time>第三天</time>
+  <place>酒桌</place>
+  <image_name>2.jpg</image_name>
+<!--光辉的单身狗结局-->
+  <elem>
+    <name></name>
+    <answer>正如海归所说，他的确对我产生了兴趣，不仅如此，他也不吝于表现这种对我特殊的兴趣。</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>所以很快的，大家都看出了海归正在如火如荼的“追求”我。</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>然而我无动于衷，甚至好几次直接的拒绝了海归邀请我共进晚餐或者是看电影的邀请。</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>兰兰虽然刚开始对我有所误解，久而久之知道我对海归是真的没有兴趣，也开始帮我拒绝他。</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>海归不知道是因为被我拒绝自尊心受挫还是怎样，没过多久也离开了公司。</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>但我想，与其说是被我拒绝自尊心受挫，不如说是怕我揭露出他那不为人知的“兴趣”而害怕的离开了吧。</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>无论怎样，我心头的又一块石头也落了地。</answer>
+  </elem>
+</Story>

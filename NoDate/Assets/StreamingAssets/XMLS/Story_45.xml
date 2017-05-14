@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- 关卡设定-->
+  <Story>
+<time>第三天</time>
+  <place>公司</place>
+  <image_name>10.jpg</image_name>
+  <elem>
+    <name></name>
+    <answer>我，我没听错吧？老板居然让我给他捶背？HELLO？EXCUSE ME？</answer>
+  </elem>
+  <elem>
+    <name>老板</name>
+    <answer>老板看我愣在原地，很不高兴地说，“怎么，给老板办点事都不愿意吗？”</answer>
+  </elem>
+  <elem>
+    <name>我</name>
+    <answer>“……愿意，愿意。”我僵笑着转身，看来事到如今，只能出卖自己的灵魂了。只是捏捏肩膀捶捶背，又不是什么大事！在家的时候也经常给爸妈做过，就把老板当成一个长辈好了。</answer>
+  </elem>
+  <elem>
+    <name>老板</name>
+    <answer>“嗯，对，就这样。再重点！”老板闭上了眼睛，一脸享受。</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>拜托！你胖的根本捏不到骨头，背厚成那样，怎么使劲？我在心里腹诽。 </answer>
+  </elem>
+  <elem>
+    <name>老板</name>
+    <answer>“往左往左！”老板命令道。我只能默默往左捏。</answer>
+  </elem>
+  <elem>
+    <name>老板</name>
+    <answer>“再往右一点！”我又默默往右。</answer>
+  </elem>
+  <elem>
+    <name>老板</name>
+    <answer>“不对！往上往上！”我：……</answer>
+  </elem>
+  <elem>
+    <name>老板</name>
+    <answer>“你怎么这么笨！再往下一点！”我：…………</answer>
+  </elem>
+  <elem>
+    <name>老板</name>
+    <answer>“对了！就是这儿，好好揉一揉，再锤一锤。”老板终于满意了，不再刁难我。</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>我一肚子委屈没地方发泄，只能继续使劲捶背。看着老板一脸享受的猪哥脸，心里骂了千百遍。</answer>
+  </elem>
+  <elem>
+    <name>老板</name>
+    <answer>“嗯，可以了。做的不错！”老板摆了摆手，示意我停止。</answer>
+  </elem>
+  <elem>
+    <name>我</name>
+    <answer>“那，那我继续工作了。”我赶紧准备离开。</answer>
+  </elem>
+  <elem>
+    <name>老板</name>
+    <answer>“……好好干，年轻人，我很欣赏你。”在准备打开办公室的门的时候，老板阴阳怪气的丢了一句这样的话。我搞不懂什么意思，匆匆的离开了。</answer>
+  </elem>
+
+</Story>

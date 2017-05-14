@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- 关卡设定-->
+  <Story>
+<time>第三天</time>
+  <place>酒桌</place>
+  <image_name>19.jpg</image_name>
+  <elem>
+    <name>主管</name>
+    <answer>“我一定会好好处理这件事，让您满意的！”一边说一边用凶狠的眼神看着我。</answer>
+  </elem>
+  <elem>
+    <name>主管</name>
+    <answer>“还愣着干嘛？还不给客人赔罪道歉？”主管看着我吼道。</answer>
+  </elem>
+  <elem>
+    <name>我</name>
+    <answer>“……对不起。”我牙都快要咬碎了，只能不情不愿的鞠躬。好不容易等到他们离开了酒桌，我才站直了身体，而我看着主管恶狠狠的眼神，就知道，我又得新找兼职了。</answer>
+  </elem>
+  <elem>
+    <name>我</name>
+    <answer>这样的日子究竟有意义吗？再一次一无所有的我忍不住问自己。</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>【Bad End：被辞退后报复】</answer>
+  </elem>
+</Story>

@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- 关卡设定-->
+  <Story>
+<time>第三天</time>
+  <place>酒桌</place>
+  <image_name>4_1.jpg</image_name>
+ <elem>
+    <name></name>
+    <answer>离开了公司我们就去市中心先稍微逛逛，没想到兰兰也是个购物狂魔，一逛起街来就忘记了时间。不知不觉就到了快九点。</answer>
+  </elem>
+  <elem>
+    <name>我</name>
+    <answer>“天啊！我要饿死了，我们可不可以去吃饭了。”我哀嚎。</answer>
+  </elem>
+  <elem>
+    <name>兰兰</name>
+    <answer>兰兰提着大包小包心满意足：“好啦好啦现在就过去，这个点吃烧烤正合适呀。”</answer>
+  </elem>
+  <elem>
+    <name>我</name>
+    <answer>我吐槽：“真不知道逛街有什么意思……”</answer>
+  </elem>
+  <elem>
+    <name>兰兰</name>
+    <answer>“你是不是女人呀！”</answer>
+  </elem>
+  <elem>
+    <name>我</name>
+    <answer>我翻了个白眼：“不爱逛街就不是女的啦？”</answer>
+  </elem>
+  <elem>
+    <name>兰兰</name>
+    <answer>“好啦下次请你吃饭……马上就能吃了，我跟你说那家烧烤摊的五花肉超级好吃的，你一定要尝尝。”</answer>
+  </elem>
+  <elem>
+    <name>我</name>
+    <answer>我眼睛忍不住发亮：“真的吗真的吗！”</answer>
+  </elem>
+  <elem>
+    <name>兰兰</name>
+    <answer>“骗你是猪头。”</answer>
+  </elem>
+</Story>

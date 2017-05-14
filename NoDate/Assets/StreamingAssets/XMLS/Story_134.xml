@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- 关卡设定-->
+  <Story>
+<time>第三天</time>
+  <place>酒桌</place>
+  <image_name>14.jpg</image_name>
+  <elem>
+    <name></name>
+    <answer>我还是老老实实的去了医院做了体检。</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>拿着体检单，发现我果然没什么大毛病，不过最近是有些累了，有些低血糖的症状。</answer>
+  </elem>
+  <elem>
+    <name>我</name>
+    <answer>“那个变态果然只是在随口胡说。”我生气的想。</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>不过还好没检查出什么毛病……没病总比有病好！</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>不过体检又花掉了我一笔钱。这下好了，我又只能天天吃泡面度日了。</answer>
+  </elem>
+</Story>

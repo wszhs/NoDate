@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- 关卡设定-->
+  <Story>
+<time>第三天</time>
+  <place>酒桌</place>
+  <image_name>8.jpg</image_name>
+<!--光辉的单身狗结局-->
+ <elem>
+    <name></name>
+    <answer>在海归离开之后，我居然升职了，拥有了自己独立的办公室。</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>回想起刚毕业那段一贫如洗勤勤恳恳的日子，仿佛还是昨天的事儿呢。</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>毕业以来，我经历了这些奇怪又刺激的事情，实在是让人难以忘怀。我明明只是一个普通的大学生，却总是遇到些怪人，怪事。还好，他们都是我生命里的过客，匆匆的来又匆匆的离开了。</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>虽然一个人的旅程里多多少少会有点寂寞……但是也未尝不是一件好事。毕竟那些怪人，我想了想老板、大哥、海龟、变态的脸。</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>这样的人果然还是不要出现在我生命里比较好！</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>我看了看窗外的天空，叹了口气。</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>做一个光辉的单身狗，又有什么不好呢？</answer>
+  </elem>
+</Story>

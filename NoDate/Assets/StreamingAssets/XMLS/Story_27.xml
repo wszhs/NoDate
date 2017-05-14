@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- 关卡设定-->
+  <Story>
+<time>第N天</time>
+  <place>家</place>
+  <image_name>14.jpg</image_name>
+<elem>
+    <name></name>
+    <answer>“……感谢您的投递，我们诚邀您于明天下午两点参加我公司的面试，收到请回复。”这天下午，我收到了这样的一则短信。</answer>
+  </elem>
+  <elem>
+    <name>我</name>
+    <answer>“居然又要去这家公司面试了！”我看着短信感叹道，上次收到这家公司的面试通知的时候，我还没毕业，现在我都已经毕业后待业在家了。</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>看来，之前的失败并不会影响这次的投递，之前隐隐的担心也放下了。</answer>
+  </elem>
+  <elem>
+    <name>我</name>
+    <answer>“这次面试，我一定要好好表现！”我在心里给自己打气着。</answer>
+  </elem>
+
+</Story>

@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- 关卡设定-->
+  <Story>
+<time>第三天</time>
+  <place>宿舍</place>
+  <image_name>14.jpg</image_name>
+<elem>
+    <name></name>
+    <answer>“咚咚咚！”有人在敲门。</answer>
+  </elem>
+  <elem>
+    <name>我</name>
+    <answer>“谁啊？”我转头问道。</answer>
+  </elem>
+  <elem>
+    <name>老太太</name>
+    <answer>“物业物业！”门外传来声音，我往猫眼处一看，是一个老太太，经常坐在楼下晒太阳，原来她就是物业吗。</answer>
+  </elem>
+  <elem>
+    <name>我</name>
+    <answer>“请问……有什么事吗？”我打开门问道。</answer>
+  </elem>
+  <elem>
+    <name>物业</name>
+    <answer>“这次是来装这个，对讲门铃的。”她举了一下手上的东西，动作麻利地开始安装了：“楼下有访客的时候可以看到他的样子，按这个键是通话，按这个是开门。”</answer>
+  </elem>
+  <elem>
+    <name>物业</name>
+    <answer>在简单的介绍了一下操作方式之后，没过多久，门边的墙上便多出了一块不大的显示屏：“最近这段时间，小区不太安全，必须要统一加强安保工作，每家每户都要装上这个，你们自己也要提高安全意识，陌生人不要开门。”</answer>
+  </elem>
+  <elem>
+    <name>室友</name>
+    <answer>“咦？发生了什么事吗？”室友问道。</answer>
+  </elem>
+  <elem>
+    <name>物业</name>
+    <answer>“噢……前几天，你们隔壁单元楼，有一户人家被抢劫了，报警了。”</answer>
+  </elem>
+  <elem>
+    <name>室友</name>
+    <answer>“什么？怎么进来的？”</answer>
+  </elem>
+  <elem>
+    <name>物业</name>
+    <answer>“那个歹徒装成是送快递的，家里只有一个女孩儿在，她也不警惕，就给开门了，于是就被抢劫了。”老太太沉重地说着：“不过万幸没受伤，人没事。”</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>什么？难道上次的那个奇怪的快递员，真的是个坏人？还好我够机智，躲过一劫！我在心里暗暗地想着。</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>但发生了这样的事，也该考虑搬家的事了。</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>没过多久，我找到了一处新的局所，价格虽然贵些，但是安保方面好多了。</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>但是面对着高昂的房租费用，继续在家混吃等死也不是办法。我一边在家闲着无事可做，一边开始继续满世界的投递着简历。</answer>
+  </elem>
+
+</Story>

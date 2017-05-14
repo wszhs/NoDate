@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- 关卡设定-->
+  <Story>
+<time>第三天</time>
+  <place>酒桌</place>
+  <image_name>21.jpg</image_name>
+<!--五十度灰结局-->
+   <elem>
+    <name></name>
+    <answer>玲琅满目的皮鞭、手铐……我一时分不清自己是在现实里，还是在梦里。</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>门在我身后咔哒关闭。我才明白，我似乎进入了一个我从未了解过的世界。</answer>
+  </elem>
+  <elem>
+    <name>海龟</name>
+    <answer>“在此之前，我们先签一份契约。”海归递给我一张合同，上面写的明明是中文，但意思我却仿佛看不懂，“让你满足我的这个兴趣，我不会什么都不给你的。”</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>签下之后，我便从一个一贫如洗的普通女孩，变成一个有钱人了。</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>在海归灼人的目光下，我用颤抖的手，签下了名字……</answer>
+  </elem>
+  <elem>
+    <name>海龟</name>
+    <answer>“那么，让我们开始吧。我等待已久了……”海归慢慢靠近我，用惑人的声音低沉地说。</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>而我闭上了眼睛，等待着未知的命运——</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>【Bad End：五十度灰】</answer>
+  </elem>
+</Story>

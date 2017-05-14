@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- 关卡设定-->
+  <Story>
+<time>第三天</time>
+  <place>公司</place>
+  <image_name>2.jpg</image_name>
+  <elem>
+    <name>兰兰</name>
+    <answer>“哎！老板刚叫你去办公室干啥呢？”兰兰一见我回来，赶紧问我。</answer>
+  </elem>
+  <elem>
+    <name>我</name>
+    <answer>“……没什么，就是工作上的事。”我没敢告诉她刚才老板叫我给他捶背，不然她肯定能宣扬给全公司都知道。</answer>
+  </elem>
+  <elem>
+    <name>兰兰</name>
+    <answer>“这样啊，我还担心他是不是对你动手动脚了！那就好。”</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>难道老板真的打算对我下手吗？我心神不宁的想着。可是我其貌不扬，他实在是没有理由挑上我呀！而且老板最后留下的那句话，他难道是在威胁我吗？</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>算了，不想了！继续工作吧。</answer>
+  </elem>
+</Story>

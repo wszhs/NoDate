@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- 关卡设定-->
+  <Story>
+<time>第三天</time>
+  <place>酒桌</place>
+  <image_name>23.jpg</image_name>
+<!-- 被玩坏结局 -->
+  <elem>
+    <name></name>
+    <answer>打开门，海归的家展现在我面前。和我想象中差距的不大，现代的装潢，东西不多，显得十分冰冷。</answer>
+  </elem>
+  <elem>
+    <name>海龟</name>
+    <answer>“请进。”海归说，“你想喝咖啡还是红酒？”</answer>
+  </elem>
+  <elem>
+    <name>我</name>
+    <answer>我想了想：“咖啡吧。”</answer>
+  </elem>
+  <elem>
+    <name>海龟</name>
+    <answer>海归突然止住了脚步，说：“这么美好的月色，喝点红酒不是更美好吗？”</answer>
+  </elem>
+  <elem>
+    <name>我</name>
+    <answer>我没有拒绝，点头同意了。喝一点应该没有关系的吧——</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>谁知道，一杯下肚，我感觉昏昏沉沉……</answer>
+  </elem>
+</Story>

@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- 关卡设定-->
+  <Story>
+<time>第三天</time>
+  <place>公司</place>
+  <image_name>5_1.jpg</image_name>
+  <elem>
+    <name></name>
+    <answer>刚才，他是不是提出要包养我？我吓了一跳，使劲抽回了手。</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>我下意识的使劲擦拭着被老板摩挲的手背，那种热乎乎潮湿的感觉似乎还留在手背上，我不由得感觉到一阵恶心。</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>糟糕！由于我下意识擦手的这个行为，老板好像不太高兴！此时老板正用不怀好意的眼神盯着我看。</answer>
+  </elem>
+  <elem>
+    <name>老板</name>
+    <answer>“你想要什么？车子，房子？”老板开始开条件诱惑我。</answer>
+  </elem>
+  <elem>
+    <name>我</name>
+    <answer>“不好意思，我不想做这种事。”我直接回绝了他。</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>老板的脸立刻由晴转阴，我直接的拒绝似乎已经惹怒了老板，这下可怎么办？</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>“叮咚——”电梯到达一楼了。</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>“您先走！”“你先！”我和老板同时伸出手请对方先出楼梯。</answer>
+  </elem>
+  <elem>
+    <name>老板</name>
+    <answer>“那好吧，我先走了。”老板没有坚持，直接大踏步走出了电梯。</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>我也紧跟着老板的脚步，走出了电梯。</answer>
+  </elem>
+</Story>

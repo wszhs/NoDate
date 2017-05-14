@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- 关卡设定-->
+  <Story>
+<time>第三天</time>
+  <place>宿舍</place>
+  <image_name>1701.jpg</image_name>
+    <elem>
+      <name>我</name>
+      <answer>“啊！”从背部传来一阵凉意，紧接着是阵阵的剧痛，我眼前一黑，再也没办法向前跑，扑倒在了大门口前。</answer>
+    </elem>
+    <elem>
+      <name>歹徒</name>
+      <answer>“他妈的，想跑？”歹徒的声音从后方传来，“老子看你是活腻了吧！”</answer>
+    </elem>
+    <elem>
+      <name>我</name>
+      <answer>不好……我好像被捅到什么要紧的地方了……我感觉背后的衣服全部湿透了，身体也越来越冷，意识越来越模糊了</answer>
+    </elem>
+    <elem>
+      <name>歹徒</name>
+      <answer>歹徒回到了我的房间，从那里传来了叮叮当当翻箱倒柜的声音。 “要，要逃出这里……”我挣扎着想要起身，不管怎样，我一定要先逃出去再说！
+      </answer>
+    </elem>
+    <elem>
+      <name>我</name>
+      <answer>“还想跑？”我逃跑的行为激怒了这个歹徒，他冲出我的房间，拿着刀，对着我连刺了好几下——</answer>
+    </elem>
+    <elem>
+      <name></name>
+      <answer>我再也支撑不住身体，沉重的倒了下去。</answer>
+    </elem>
+    <elem>
+      <name></name>
+      <answer>血从我身上的好几个窟窿里奔涌而出，浸湿了身下的地板。而我感觉身体越来越冷了，眼前也越来越黑，好想睡……</answer>
+    </elem>
+    <elem>
+      <name></name>
+      <answer>可我还不想死啊，我在内心大叫着。我还年轻，我还没结婚，还没赚钱，还没开始我的大好人生，难道一切就这样结束了吗？</answer>
+    </elem>
+    <elem>
+      <name>我</name>
+      <answer> “妈妈……对不起……”早知道会这样，我就应该选择回老家了……我还没来得及，就…… 我渐渐失去了意识。
+      </answer>
+    </elem>
+  <elem>
+    <name></name>
+    <answer>【Bad End：被快递砍死】</answer>
+  </elem>
+</Story>

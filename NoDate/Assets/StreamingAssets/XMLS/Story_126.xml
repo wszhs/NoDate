@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- 关卡设定-->
+  <Story>
+<time>第三天</time>
+  <place>酒桌</place>
+  <image_name>12_1.jpg</image_name>
+<!-- 大哥剧情 -->
+  <elem>
+    <name>我</name>
+    <answer>“我不要你的貂，也不做你的人！”</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>大哥的话中之意已经十分明显了，他想让我做大哥的女人！</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>我怎么可能会答应？</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>加上酒壮怂人胆，喝了几口酒有点上头，借着酒意我怒吼出声。</answer>
+  </elem>
+  <elem>
+    <name>大哥</name>
+    <answer>“你说什么？”大哥眯起了眼睛，一改之前的笑容满面，平易近人，我才想起来，他可是大哥啊！</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>酒瞬间吓得醒了大半。</answer>
+  </elem>
+  <elem>
+    <name>我</name>
+    <answer>“我是不可能做你的女人的，劝你死了这条心。”虽然我隐隐地感到害怕，但我知道，必须直截了当的拒绝他。</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>不然让他误会了只会引来更多的事端。</answer>
+  </elem>
+  <elem>
+    <name>大哥</name>
+    <answer>“好好好，算你有骨气。”大哥怒极反笑，深深地看了我一眼，起身离开。</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>我这才感到害怕。我会不会得罪了大哥？</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>可是说出的话如同泼出的水，既然都已经说了，也不能再收回了。</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>希望大哥不要因为这件事情就发怒……我默默地祈祷着，打算离开烧烤摊。</answer>
+  </elem>
+</Story>

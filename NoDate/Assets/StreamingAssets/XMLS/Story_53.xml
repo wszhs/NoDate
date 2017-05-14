@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- 关卡设定-->
+  <Story>
+<time>第三天</time>
+  <place>公司</place>
+  <image_name>5_1.jpg</image_name>
+  <elem>
+    <name>我</name>
+    <answer>“这……”我抽了抽攥在老板手里的手，打算先搪塞过去。</answer>
+  </elem>
+  <elem>
+    <name>老板</name>
+    <answer>“你想要什么？车子，房子？”老板看我没有直接拒绝，认定我对他的提议有兴趣，开始开条件诱惑我。</answer>
+  </elem>
+  <elem>
+    <name>我</name>
+    <answer>“我觉得现在这样上班挺好的，我再考虑考虑吧。”我不好直接拒绝，只能选择应付。</answer>
+  </elem>
+  <elem>
+    <name>老板</name>
+    <answer>“好的，那我给你一星期时间考虑。”老板对着我挤了挤眼睛，那挤眉弄眼的样子真令人作呕。</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>“叮咚——”电梯到达一楼了。</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>“您先走！”“你先！”我和老板同时伸出手请对方先出楼梯。</answer>
+  </elem>
+  <elem>
+    <name>老板</name>
+    <answer>“哈哈哈哈哈，你是女孩子嘛，我也发挥一下绅士风度！”老板坚持着。</answer>
+  </elem>
+  <elem>
+    <name>我</name>
+    <answer>“那好吧。”不过老板这张有点油腻的脸，着实让人联系不到绅士二字……</answer>
+  </elem>
+</Story>

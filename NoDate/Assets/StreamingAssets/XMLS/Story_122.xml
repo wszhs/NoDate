@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- 关卡设定-->
+  <Story>
+<time>第三天</time>
+  <place>酒桌</place>
+  <image_name>16.jpg</image_name>
+<!-- 大哥剧情 -->
+  <elem>
+    <name></name>
+    <answer>走在路上，想着海归的事情，不知不觉就来到了一个熟悉的小巷子里。</answer>
+  </elem>
+  <elem>
+    <name>我</name>
+    <answer>“咦，这地方，总觉得有点眼熟啊……”我看着四周熟悉的景色，回想着究竟是什么时候来过这个地方。再向前走了几步，一点微弱的黄色灯光和一股烟熏和烤肉混杂着的香气，让我回过神来。</answer>
+  </elem>
+  <elem>
+    <name>我</name>
+    <answer>“这不是上次兰兰带我来吃过的烧烤摊吗！”我恍然大悟。</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>天色也已经晚了，和海归在一起的时候故作矜持根本没有吃饱，所以一闻到这一股烧烤香味，我的肚子就开始咕咕作响。</answer>
+  </elem>
+  <elem>
+    <name>我</name>
+    <answer>“既然如此，不如就去顺便吃一顿烧烤好了。”</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>虽然上次那个奇怪的东北大哥着实使我担惊受怕了好些天，但现在我已经几乎不记得那件事了。估计今天并不会这么不走运的碰见那一群社会青年吧。</answer>
+  </elem>
+</Story>

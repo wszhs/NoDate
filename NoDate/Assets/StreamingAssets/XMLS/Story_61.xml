@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- 关卡设定-->
+  <Story>
+<time>第三天</time>
+  <place>酒桌</place>
+  <image_name>9_1.jpg</image_name>
+  <elem>
+    <name>我</name>
+    <answer>“完全搓不掉啊。”用水试着清洗着身上的红酒印子，但是效果并不好，不仅没能洗干净，湿了之后直接成了透视装，里面的内衣也清晰可见。这下可怎么是好？我拿毛巾使劲擦着湿了的衣服，准备离开这个地方，没想到这时老板正从后面进来，正好撞了个正着！</answer>
+  </elem>
+  <elem>
+    <name>我</name>
+    <answer>“啊……老板！”我叫道。</answer>
+  </elem>
+  <elem>
+    <name>老板</name>
+    <answer>“呵呵……怎么样了，好点没有啊？”老板貌似关心的问道，但看着我湿透的胸口，眼神越发毒辣，脚步一步步向我逼近。</answer>
+  </elem>
+  <elem>
+    <name>我</name>
+    <answer>“我回家处理吧，先走了！”我赶忙准备离开。突然脚被老板伸出的腿绊了一下，身子一歪——</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>老板立刻伸手把我拉住揽入怀里，另一只手，则摸向我的前胸——</answer>
+  </elem>
+</Story>

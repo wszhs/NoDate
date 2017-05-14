@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- 关卡设定-->
+  <Story>
+<time>第三天</time>
+  <place>酒桌</place>
+  <image_name>15.jpg</image_name>
+<!-- 被玩坏结局 -->
+  <elem>
+    <name></name>
+    <answer>一天我们晚餐之后，他提出了上他家坐坐的邀请。</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>我心里想，这一天总算是来了。</answer>
+  </elem>
+  <elem>
+    <name>海龟</name>
+    <answer>“只是喝一杯咖啡。”他看出了我的摇摆不定，微笑着说。</answer>
+  </elem>
+  <elem>
+    <name>我</name>
+    <answer>“……好。”我终于点头。</answer>
+  </elem>
+</Story>

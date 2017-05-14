@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- 关卡设定-->
+  <Story>
+<time>第三天</time>
+  <place>酒桌</place>
+  <image_name>5.jpg</image_name>
+  <elem>
+    <name></name>
+    <answer>兰兰一想也是，于是我们蹑手蹑脚的从他办公室过去了，然后打卡离开。不过不知道是不是我错觉，感到海龟的视线一直盯着我们离开……难道他是一个工作狂？看到我们这样很不爽。</answer>
+  </elem>
+  <elem>
+    <name>我</name>
+    <answer>我跟兰兰小声说：“海龟刚才应该看到我们走了吧……”</answer>
+  </elem>
+  <elem>
+    <name>兰兰</name>
+    <answer>“有吗？”</answer>
+  </elem>
+  <elem>
+    <name>我</name>
+    <answer>“而且他好像一直看着我们出大门诶。”</answer>
+  </elem>
+  <elem>
+    <name>兰兰</name>
+    <answer>兰兰大叫：“完了完了完了！人家在他心中的形象没有了啦！”</answer>
+  </elem>
+  <elem>
+    <name>我</name>
+    <answer>我无语：“你在他心中本来也没有什么形象可言好吗！”</answer>
+  </elem>
+</Story>

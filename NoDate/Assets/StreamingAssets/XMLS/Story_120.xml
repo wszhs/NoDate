@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- 关卡设定-->
+  <Story>
+<time>第三天</time>
+  <place>酒桌</place>
+  <image_name>20.jpg</image_name>
+<!-- 海龟剧情 -->
+  <elem>
+    <name>我</name>
+    <answer>“五十度灰这部小说太幼稚了。”我想了想，事到如今，只有比他更加装逼，才能逃过一劫。</answer>
+  </elem>
+  <elem>
+    <name>海龟</name>
+    <answer> “哦？”海归笑笑，“是吗？”</answer>
+  </elem>
+  <elem>
+    <name>我</name>
+    <answer>“完全没有写出sm的中心含义嘛，正如你所说，只是霸道总裁爱上我的剧情而已。”我装作很冷静的样子说着，誓要把逼装到底了。</answer>
+  </elem>
+  <elem>
+    <name>海龟</name>
+    <answer>“你好像对这个很了解的样子嘛。“海归笑着问。</answer>
+  </elem>
+  <elem>
+    <name>我</name>
+    <answer>“没有没有，只是我喜欢平时看些杂书，什么都看。”我继续七扯八扯，想把刚才的事情绕过去。</answer>
+  </elem>
+  <elem>
+    <name>海龟</name>
+    <answer>“这么说，你知道我有什么爱好了？”海归危险的眯起了眼睛，再次靠近我。</answer>
+  </elem>
+  <elem>
+    <name>我</name>
+    <answer>“嗨，这个，那我也不能确定，毕竟这涉及到了心理学的范畴。其实是个很大的概念。”对于这样的人我决不能表现出害怕，哪怕我的腿都在发抖了，还是装作一副淡定自若的模样。</answer>
+  </elem>
+  <elem>
+    <name>海龟</name>
+    <answer>“哦这样啊，你真是一个很特别的人。”海归看着我的样子，突然笑了出来。</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>好像是结束了这个话题了，我尴尬地想着，他没有继续逼问那方面的问题了。</answer>
+  </elem>
+  <elem>
+    <name>海龟</name>
+    <answer>“现在，我对你很有兴趣了。不，应该说是非常，十分，特别的有兴趣。”终于，海归止住了笑声。然后笑眯眯地对我这么说。</answer>
+  </elem>
+  <elem>
+    <name>我</name>
+    <answer>“……其实我懂的也不多的，并没有深入研究过。”我开始慌了。</answer>
+  </elem>
+  <elem>
+    <name>海龟</name>
+    <answer>“放心，我不会对你做什么的。”海归看到我的样子轻声安抚：“至少现在还不会。”</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>刚刚舒了一口气的我听到后半句话吓得差点没坐在地上。</answer>
+  </elem>
+</Story>

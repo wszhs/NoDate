@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- 关卡设定-->
+  <Story>
+<time>第三天</time>
+  <place>酒桌</place>
+  <image_name>6.jpg</image_name>
+<!-- 海龟剧情 -->
+  <elem>
+    <name></name>
+    <answer>我们离开饭店之后，不多久，来了一家看起来很正常的电影院。只见海归和前台的小姐说了些什么，她就把我们迎到了一处放映厅前，和其他的放映厅并没有什么不同，只是led屏幕上没有显示现在播放的场次。</answer>
+  </elem>
+</Story>

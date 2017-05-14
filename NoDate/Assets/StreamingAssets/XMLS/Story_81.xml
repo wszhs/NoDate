@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- 关卡设定-->
+  <Story>
+<time>第三天</time>
+  <place>酒桌</place>
+  <image_name>5.jpg</image_name>
+  <elem>
+    <name></name>
+    <answer>没有交接工作的时间，hr很爽快的把这个月的工资结给了我，当天我就包着东西离开了。</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>我就像之前被迫辞职的小林一样，不同的是我是被开除的，这让我更加丢脸。</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>在我走出公司的大楼之时，同事们的窃窃私语仿佛还回响在耳边。他们或许就像我当年听到的谈论小林的故事一样，把我这段难以启齿的经历当做茶余饭后的谈资。</answer>
+  </elem>
+</Story>

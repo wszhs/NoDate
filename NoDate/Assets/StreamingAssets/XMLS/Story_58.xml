@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- 关卡设定-->
+  <Story>
+<time>第三天</time>
+  <place>公司</place>
+  <image_name>4_1.jpg</image_name>
+   <elem>
+    <name></name>
+    <answer>出了办公楼，夜色如洗，天已经全黑了。</answer>
+  </elem>
+  <elem>
+    <name>老板</name>
+    <answer>“你就天天这么加班吧。”老板甩下这么一句话，就转头走了。</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>我看着老板走到路边停着的一辆豪车跟前，上了车疾驰而去，内心感到五味杂陈。</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>这次直接惹怒了老板，不知道他会不会放弃，还是会继续骚扰我，甚至做出一些过分的举动？他有钱有势，我却只是一个小小的员工，得罪不起呀！</answer>
+  </elem>
+  <elem>
+    <name>我</name>
+    <answer>“快别想这些了！”我拍醒自己，匆匆的走向地铁站准备回家。</answer>
+  </elem>
+  <elem>
+    <name>我</name>
+    <answer>今天好像得罪了老板一下……不知道他会不会对我记恨在心，以后给我穿小鞋？要真是这样那可麻烦了。在地铁上，我惶恐不安的想着。</answer>
+  </elem>
+</Story>

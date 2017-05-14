@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- 关卡设定-->
+  <Story>
+<time>第三天</time>
+  <place>酒桌</place>
+  <image_name>9.jpg</image_name>
+    <elem>
+    <name>同事</name>
+    <answer>“你还好吧？要不要先回去？”旁边同事关心的问道。</answer>
+  </elem>
+  <elem>
+    <name>我</name>
+    <answer>“嗯，也好……到时候你就说我喝多了不舒服，我先走了。”我抓起包匆匆的就走了。</answer>
+  </elem>
+  <elem>
+    <name>同事</name>
+    <answer>“哎！找个人送你回家吧！”</answer>
+  </elem>
+</Story>

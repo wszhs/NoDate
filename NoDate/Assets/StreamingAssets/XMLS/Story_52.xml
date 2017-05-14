@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- 关卡设定-->
+  <Story>
+<time>第三天</time>
+  <place>公司</place>
+  <image_name>5_1.jpg</image_name>
+ <elem>
+    <name>我</name>
+    <answer>“恩，好的。”关了电脑走出办公室，进了电梯准备下楼</answer>
+  </elem>
+    <elem>
+      <name>我</name>
+      <answer>我看着关闭的门，准备按下一层的按钮，这时候老板也伸出手，正好盖在了我的手背上，手背的皮肤处传来了热热的触感！</answer>
+    </elem>
+  <elem>
+    <name></name>
+    <answer>是错觉吧……热热的触感几秒后就消失了，我抬头一看，老板也正打算按一层的按钮。</answer>
+  </elem>
+  <elem>
+    <name>老板</name>
+    <answer>“哦吼吼……没注意到你已经先按了！”老板笑眯眯的说。</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>啊，这么看来他刚才只是不小心碰到了我的手，嗨，这点事也值得大惊小怪！看来是我错怪了老板，我心里这么想着。</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>谁知道老板按了一层之后，手继续搭在了我的手背上，我想要抽出手，老板却紧紧攥住我的手不放，还用大拇指来回摩挲着我的手背！</answer>
+  </elem>
+  <elem>
+    <name>老板</name>
+    <answer>“……你看，你们刚毕业的女孩子，工作这么辛苦，一天到晚的加班，多累呀，不如我给你找一个活儿，价钱随你开。”老板低声说。</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>……等一下？这，这是什么意思？难道老板这是要包我？？？我不可思议的看着他。</answer>
+  </elem>
+  <elem>
+    <name>老板</name>
+    <answer>“……条件就是，你跟着我，你觉得怎么样？”老板问。</answer>
+  </elem>
+
+</Story>

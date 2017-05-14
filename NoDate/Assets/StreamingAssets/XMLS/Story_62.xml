@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- 关卡设定-->
+  <Story>
+<time>第三天</time>
+  <place>酒桌</place>
+  <image_name>9_1.jpg</image_name>
+  <elem>
+    <name></name>
+    <answer>WTF？老板这是明目张胆的性骚扰吧！我不敢相信的看着老板。</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>然而老板并没有收回手，依旧放在我的胸上上，甚至还抓了一把！</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>WTFWTFWTF！！</answer>
+  </elem>
+  <elem>
+    <name>老板</name>
+    <answer>老板一脸怪笑地看着我：“一星期考虑时间已经到了，怎么样，你的答案呢？”</answer>
+  </elem>
+  <elem>
+    <name>我</name>
+    <answer>“……我还没想好。”我真想一巴掌扇在他的脸上，可一想到将来他会不会报复我，就怂逼的忍耐了下来。人在屋檐下，不得不低头！</answer>
+  </elem>
+  <elem>
+    <name>老板</name>
+    <answer>“你想要什么，我都能给你……跟了我吧，你就不用这么辛苦的奋斗了……”老板见我没什么反抗，更高兴了，肿眼泡眯成了两条缝，揽着我肩膀的手更用力了，高兴地说着。</answer>
+  </elem>
+  <elem>
+    <name>我</name>
+    <answer>“不，不用了……”我把他放在我胸前的手使劲推开，小声的推辞。</answer>
+  </elem>
+  <elem>
+    <name>老板</name>
+    <answer>“哎，我给你这样好的机会，你怎么还推辞？我又不会害你！”老板打住我的话。</answer>
+  </elem>
+  <elem>
+    <name>我</name>
+    <answer>“……我，我实在受之不起啊！”好不容易把他的咸猪手挪开，我尴尬的推辞。</answer>
+  </elem>
+  <elem>
+    <name>老板</name>
+    <answer>“受得起受得起……”老板用志在必得的眼神，上下打量着我，双手环过我的肩膀，把我揽住，“你就跟着我，一个月两万，不，三万！”</answer>
+  </elem>
+</Story>

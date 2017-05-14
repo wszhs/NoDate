@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- 关卡设定-->
+  <Story>
+<time>第三天</time>
+  <place>公司</place>
+  <image_name>10.jpg</image_name>
+  <elem>
+    <name></name>
+    <answer>我，我没听错吧？老板居然让我给他捶背？HELLO？EXCUSE ME？</answer>
+  </elem>
+  <elem>
+    <name>老板</name>
+    <answer>老板看我愣在原地，很不高兴地说，“怎么，给老板办点事都不愿意吗？”</answer>
+  </elem>
+  <elem>
+    <name>我</name>
+    <answer>“不可能，做梦啊你！”我热血上头，脑子里一炸，直接口出狂言。</answer>
+  </elem>
+  <elem>
+    <name>老板</name>
+    <answer>“你！！你你你你你……”老板一张大脸涨得通红，两只金鱼眼瞪得溜圆，不可置信的看着我。</answer>
+  </elem>
+  <elem>
+    <name>我</name>
+    <answer>“呃……对不起对不起对不起！！！”我说完才反应过来，我刚才好像干了件大逆不道的事！</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>刚才说的话还依稀回响在耳边，更别说老板的脸面了……我不由得感觉到惶恐，不敢看老板现在的表情。</answer>
+  </elem>
+  <elem>
+    <name>老板</name>
+    <answer>“你，你竟敢……”此时老板正用恶狠狠的眼神盯着我。</answer>
+  </elem>
+  <elem>
+    <name>我</name>
+    <answer>完了完了完了，我尴尬的笑着，“真的对不起！我反应过度了，下意识冒犯了，你不要放在心上！”我这么大惊小怪，似乎已经惹怒了老板，这下可怎么办？</answer>
+  </elem>
+  <elem>
+    <name>老板</name>
+    <answer>“你，你给我滚出去！”老板捂着脸对我怒吼。</answer>
+  </elem>
+  <elem>
+    <name>我</name>
+    <answer>“那，那我继续工作了。”我赶紧准备离开。</answer>
+  </elem>
+  <elem>
+    <name>老板</name>
+    <answer>“……你给我等着吧。”在准备打开办公室的门的时候，老板阴阳怪气的丢了一句这样的话。我搞不懂什么意思，匆匆的离开了。</answer>
+  </elem>
+</Story>

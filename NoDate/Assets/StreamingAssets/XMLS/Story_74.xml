@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- 关卡设定-->
+  <Story>
+<time>第三天</time>
+  <place>酒桌</place>
+  <image_name>14.jpg</image_name>
+  <elem>
+    <name></name>
+    <answer>一个月后。</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>这一个月我一直呆在家里，没有出去找工作。但之前根本没有存下什么钱，于是很快就山穷水尽了。我再次尝试着投简历，但却总是失败。再这样下去，我恐怕只能回家了。</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>“滴——”手机振动了一下。我接过来一看，居然是老板发来的短信。内容很简单，只有一句话，想好了吗，今晚八点我在xx酒店8501等你。</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>我又羞又气，直接把手机扔了出去。紧接着手机又振动了一下。我又捡回手机，还是老板发来的短信：只要你到了，两万会立刻转到你的卡上。</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>我怎么可能会去！我生气的大叫着，但内心却已经动摇了。</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>我不会去的……我要不要去……我去吗……</answer>
+  </elem>
+</Story>

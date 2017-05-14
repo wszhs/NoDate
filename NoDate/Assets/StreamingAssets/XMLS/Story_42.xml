@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- 关卡设定-->
+  <Story>
+<time>第三天</time>
+  <place>公司</place>
+  <image_name>14.jpg</image_name>
+  <elem>
+    <name>我</name>
+    <answer>“还算是轻松的一天！”下班回到家后我躺倒在床上，感叹了一下。看来第一天都比较清闲，没什么事情可以做。真不知道这样轻松的日子还能有多久。</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>除了工作量以外，同事们虽说比较冷漠，但久了应该就好了，主管态度还算和善，而且那个老板！看起来好像很nice的样子呢。</answer>
+  </elem>
+  <elem>
+    <name>我</name>
+    <answer>“虽然是个老头子，不过脾气好像还挺好的。”我在心里暗想道，今天对我最热情的就是他了，其他人都是不冷不热的。</answer>
+  </elem>
+  <elem>
+    <name>我</name>
+    <answer>“但是他毕竟是老板，估计以后也不怎么会和他打交道，还是要和同事们以及主管打好关系才行！”我立下志向，打算在新公司里好好打拼，和同事们好好相处。</answer>
+  </elem>
+</Story>

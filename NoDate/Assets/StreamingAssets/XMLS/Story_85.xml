@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- 关卡设定-->
+  <Story>
+<time>第三天</time>
+  <place>酒桌</place>
+  <image_name>14.jpg</image_name>
+  <elem>
+    <name></name>
+    <answer> 自上次酒局之后，我请假在家了好几天，不敢去公司上班，害怕面对老板，也害怕面对同事们。</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>之前老板在酒桌上对我上下其手的举动，想必全公司的人都看见了，这下可好，所有人都知道，我就是小林辞职后的下一个被变态老板看上的倒霉蛋。</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>没想到，在我请假的时候</answer>
+  </elem>
+    <elem>
+      <name></name>
+      <answer>手机突然响起，是一个陌生的号码。我接起，居然是小林打来的！</answer>
+    </elem>
+  <elem>
+    <name></name>
+    <answer>电话挂断之后，我内心更加不能平静。原来，小林在被辞退之后，并没有选择把这个委屈打落牙齿和血吞，而是选择用自己的方式报复。</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>更令我感到惊奇的是，小林居然并不像我们看到的那样只是一个平凡的大学生，而是一个真正的白富美。在这里上班也是大学毕业后自己找的工作，却没想到发生了这样的事。</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>当小林回家把这件事告诉了家人，他们则立刻开始针对老板进行了报复，想必没多久我就再也看不到老板的身影了。</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>而小林之所以打电话给我，也是因为在调查老板的黑历史之时，发现了很多遭遇相同的受害者，我也只是其中一个而已。</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>而我也毫不犹豫的将那一份录音证据交给了小林，哪怕起不到什么作用，也是一种心理上的安慰。</answer>
+  </elem>
+  <elem>
+    <name>小林</name>
+    <answer>“你放心，这件事我一定会坚持到底。”小林安慰我道。</answer>
+  </elem>
+</Story>

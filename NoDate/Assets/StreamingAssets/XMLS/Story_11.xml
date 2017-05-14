@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- 关卡设定-->
+  <Story>
+  <time>第三天</time>
+  <place>宿舍</place>
+  <image_name>14.jpg</image_name>
+  <elem>
+    <name></name>
+    <answer>一天就这么过去了，好快啊！不知不觉都该准备洗洗睡了。我看着手机上的时间感叹。</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>明天就是面试的日子了！要不要定个闹钟呢？</answer>
+  </elem>
+</Story>

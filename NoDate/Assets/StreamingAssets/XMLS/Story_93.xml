@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- 关卡设定-->
+  <Story>
+<time>第三天</time>
+  <place>酒桌</place>
+  <image_name>12.jpg</image_name>
+<!-- 大哥剧情 -->
+  <elem>
+    <name></name>
+    <answer>我们拐进了一个小巷里，终于见到了传说中很好吃的烧烤摊。地方不是很大，摆了好几张桌子，几乎都坐满了人，老板忙碌的在烤架前忙活着，看来生意的确很火爆。</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>甚至还有一桌坐着好几个光着膀子纹着纹身的社会青年，我有一点害怕，不过兰兰说没事。</answer>
+  </elem>
+  <elem>
+    <name>我</name>
+    <answer>兰兰拉着我找了张没人的桌子坐下，然后把大包小包都小心的放在椅子上，生怕弄脏了。我看她这个样子，无奈的说“我去点单吧，你就坐在这里就好。”</answer>
+  </elem>
+  <elem>
+    <name>兰兰</name>
+    <answer>兰兰感动的说：“太好了~走了好久累都累死了，我没有什么别的要求，记得点五花肉就好。”</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>我点了点头就过去点吃的了。</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>走到冷柜前，我直接寻找着兰兰指定要吃的五花肉，运气还不错，只剩下最后一盘了。我伸手正准备要拿，突然一个黝黑的手臂也向那盘肉伸去——</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>我抬头一看，正是那一桌社会青年中的其中一个！他光着膀子，剃着光头，面目看上去十分凶恶。</answer>
+  </elem>
+  <elem>
+    <name>社会青年A</name>
+    <answer>社会青年操着一口东北话，伸出大拇指指了指背后：“这是我们大哥的肉，你识相点把手放开。</answer>
+  </elem>
+</Story>

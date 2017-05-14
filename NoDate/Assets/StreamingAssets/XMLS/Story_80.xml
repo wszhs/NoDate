@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- 关卡设定-->
+  <Story>
+<time>第三天</time>
+  <place>酒桌</place>
+  <image_name>10.jpg</image_name>
+  <elem>
+    <name>老板</name>
+    <answer>“哦……你来了呀……”老板没看我，低着头处理着文件。</answer>
+  </elem>
+  <elem>
+    <name>我</name>
+    <answer>“为什么开除我？我犯了什么错？”</answer>
+  </elem>
+  <elem>
+    <name>老板</name>
+    <answer>“以下犯上，冒犯老板，你说你犯了什么错？”老板皮笑肉不笑的抬头看我。</answer>
+  </elem>
+  <elem>
+    <name>我</name>
+    <answer>“……那是因为你，你性骚扰我！”我听到老板黑白不分的污蔑我篡改事实，气的直冒烟。</answer>
+  </elem>
+  <elem>
+    <name>老板</name>
+    <answer>“哈哈哈哈”老板仿佛听到了什么很好笑的笑话一样夸张的仰天大笑，“那你现在就去告我啊，我倒是想看看你能翻出什么天来。”</answer>
+  </elem>
+  <elem>
+    <name>我</name>
+    <answer>“……”我沉默了，虽然老板性骚扰员工这件事在公司几乎人尽皆知，但确切的证据却是一个也没有。没有证据，我现在说什么都是没用的，老板抵死也不会承认。</answer>
+  </elem>
+  <elem>
+    <name>老板</name>
+    <answer>“呵呵，证据呢？拿得出来吗？”老板冷笑着说，“跟我斗，你还是嫩了点。”</answer>
+  </elem>
+  <elem>
+    <name>老板</name>
+    <answer>我气的说不出话，只能掉头走出了办公室，当我正要离开之时，背后传来一句阴沉沉的声音“……这只是个开始。”</answer>
+  </elem>
+</Story>

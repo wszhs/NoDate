@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- 关卡设定-->
+  <Story>
+<time>第三天</time>
+  <place>酒桌</place>
+  <image_name>4_1.jpg</image_name>
+<!-- 海龟剧情 -->
+  <elem>
+    <name></name>
+    <answer>出了公司大门，夜幕已经升起。还好刚才办公室内已经没有别的同事了，不然要是被看见免不了又是一堆闲言碎语。</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>海归的车是一辆黑色迈腾，在黑夜中显得十分低调。上了副驾驶，海归一脚油门，车辆便驶出了办公园区。</answer>
+  </elem>
+  <elem>
+    <name>海龟</name>
+    <answer>“先去看电影还是吃饭？”</answer>
+  </elem>
+  <elem>
+    <name>我</name>
+    <answer>“先，先吃饭？……”我小心翼翼的回答道。</answer>
+  </elem>
+</Story>

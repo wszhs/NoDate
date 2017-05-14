@@ -1,0 +1,386 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- 关卡设定-->
+<LevelConfig>
+  
+  <elem>
+    <!-- 主题名字 -->
+    <name>game</name>
+    <number>0</number>
+    <theme>Animation.kl</theme>
+    <!-- 游戏类型，0:普通 1：礼物 2：地鼠 3： 恶魔-->
+    <type>0</type>
+    <!-- 游戏时间 -->
+    <timeOut>150</timeOut>
+    <!-- 目标分数-->
+    <score>200</score>
+    <filename>game</filename>
+    <maxcount>15</maxcount>
+    <music>bg_kl</music>
+    <!-- 背景是否移动，1：移动 0：不移动-->
+    <ismove>1</ismove>
+    <!-- 是否显示血条，1：显示 0：不显示-->
+    <showblood>1</showblood>
+    <!-- 死亡销毁时间-->
+    <dietime>0.35</dietime>
+    <!-- 是否有双人场景, 1：没有双人场景 2：有双人场景-->
+    <isdoublescene>2</isdoublescene>
+    <!-- 是否有粒子, 1：有 0：没有-->
+    <haveparticle>1</haveparticle>
+    <!--是否有金币 1：有 0：没有-->
+    <havecoin>1</havecoin>
+  </elem>
+
+  <elem>
+    <!-- 主题名字 -->
+    <name>豌豆星球</name>
+    <number>1</number>
+    <theme>Animation.wdxq</theme>
+    <!-- 游戏类型，0:普通 1：礼物 2：地鼠 3： 恶魔-->
+    <type>0</type>
+    <!-- 游戏时间 -->
+    <timeOut>150</timeOut>
+    <!-- 目标分数-->
+    <score>350</score>
+    <filename>wdxq</filename>
+    <maxcount>15</maxcount>
+    <music>bg_wd</music>
+    <!-- 背景是否移动，1：移动 0：不移动-->
+    <ismove>1</ismove>
+    <!-- 是否显示血条，1：显示 0：不显示-->
+    <showblood>1</showblood>
+    <!-- 死亡销毁时间-->
+    <dietime>0.7</dietime>
+    <!-- 是否有双人场景, 1：没有双人场景 2：有双人场景-->
+    <isdoublescene>2</isdoublescene>
+    <!-- 是否有粒子, 1：有 0：没有-->
+    <haveparticle>1</haveparticle>
+    <!--是否有金币 1：有 0：没有-->
+    <havecoin>1</havecoin>
+  </elem>
+  <elem>
+    <!-- 主题名字 -->
+    <name>小森林</name>
+    <number>2</number>
+    <theme>Animation.xsl</theme>
+    <!-- 游戏类型，0:普通 1：礼物 2：地鼠 3： 恶魔-->
+    <type>0</type>
+    <!-- 游戏时间 -->
+    <timeOut>150</timeOut>
+    <!-- 目标分数-->
+    <score>300</score>
+    <filename>xsl</filename>
+    <maxcount>15</maxcount>
+    <music>bg_xsl</music>
+    <!-- 背景是否移动，1：移动 0：不移动-->
+    <ismove>1</ismove>
+    <!-- 是否显示血条，1：显示 0：不显示-->
+    <showblood>1</showblood>
+    <!-- 死亡销毁时间-->
+    <dietime>0.7</dietime>
+    <!-- 是否有双人场景, 1：没有双人场景 2：有双人场景-->
+    <isdoublescene>2</isdoublescene>
+    <!-- 是否有粒子, 1：有 0：没有-->
+    <haveparticle>1</haveparticle>
+    <!--是否有金币 1：有 0：没有-->
+    <havecoin>1</havecoin>
+  </elem>
+  <elem>
+    <!-- 主题名字 -->
+    <name>虫子主题</name>
+    <number>3</number>
+    <theme>Animation.cz</theme>
+    <!-- 游戏类型，0:普通 1：礼物 2：地鼠 3： 恶魔-->
+    <type>0</type>
+    <!-- 游戏时间 -->
+    <timeOut>150</timeOut>
+    <!-- 目标分数-->
+    <score>350</score>
+    <filename>cz</filename>
+    <maxcount>15</maxcount>
+    <music>bg_cz</music>
+    <!-- 背景是否移动，1：移动 0：不移动-->
+    <ismove>0</ismove>
+    <!-- 是否显示血条，1：显示 0：不显示-->
+    <showblood>1</showblood>
+    <!-- 死亡销毁时间-->
+    <dietime>0.7</dietime>
+    <!-- 是否有双人场景, 1：没有双人场景 2：有双人场景-->
+    <isdoublescene>2</isdoublescene>
+    <!-- 是否有粒子, 1：有 0：没有-->
+    <haveparticle>1</haveparticle>
+    <!--是否有金币 1：有 0：没有-->
+    <havecoin>1</havecoin>
+  </elem>
+  <elem>
+    <!-- 主题名字 -->
+    <name>海洋主题</name>
+    <number>4</number>
+    <theme>Animation.hy</theme>
+    <!-- 游戏类型，0:普通 1：礼物 2：地鼠 3： 恶魔-->
+    <type>0</type>
+    <!-- 游戏时间 -->
+    <timeOut>150</timeOut>
+    <!-- 目标分数-->
+    <score>400</score>
+    <filename>hy</filename>
+    <maxcount>15</maxcount>
+    <music>bg_hy</music>
+    <!-- 背景是否移动，1：移动 0：不移动-->
+    <ismove>1</ismove>
+    <!-- 是否显示血条，1：显示 0：不显示-->
+    <showblood>1</showblood>
+    <!-- 死亡销毁时间-->
+    <dietime>0.7</dietime>
+    <!-- 是否有双人场景, 1：没有双人场景 2：有双人场景-->
+    <isdoublescene>2</isdoublescene>
+    <!-- 是否有粒子, 1：有 0：没有-->
+    <haveparticle>1</haveparticle>
+    <!--是否有金币 1：有 0：没有-->
+    <havecoin>1</havecoin>
+  </elem>
+  <elem>
+    <!-- 主题名字 -->
+    <name>接礼物</name>
+    <number>5</number>
+    <theme>Animation.lw</theme>
+    <!-- 游戏类型，0:普通 1：礼物 2：地鼠 3： 恶魔-->
+    <type>1</type>
+    <!-- 游戏时间 -->
+    <timeOut>90</timeOut>
+    <!-- 目标分数-->
+    <score>200</score>
+    <filename>lw</filename>
+    <maxcount>30</maxcount>
+    <music>bg_jlw</music>
+    <!-- 背景是否移动，1：移动 0：不移动-->
+    <ismove>0</ismove>
+    <!-- 是否显示血条，1：显示 0：不显示-->
+    <showblood>0</showblood>
+    <!-- 死亡销毁时间-->
+    <dietime>1.0</dietime>
+    <!-- 是否有双人场景, 1：没有双人场景 2：有双人场景-->
+    <isdoublescene>2</isdoublescene>
+    <!-- 是否有粒子, 1：有 0：没有-->
+    <haveparticle>1</haveparticle>
+    <!--是否有金币 1：有 0：没有-->
+    <havecoin>1</havecoin>
+  </elem>
+  <elem>
+    <!-- 主题名字 -->
+    <name>砸地鼠</name>
+    <number>6</number>
+    <theme>Animation.ds</theme>
+    <!-- 游戏类型，0:普通 1：礼物 2：地鼠 3： 恶魔-->
+    <type>2</type>
+    <!-- 游戏时间 -->
+    <timeOut>90</timeOut>
+    <!-- 目标分数-->
+    <score>500</score>
+    <filename>ds</filename>
+    <maxcount>7</maxcount>
+    <music>bg_zds</music>
+    <!-- 背景是否移动，1：移动 0：不移动-->
+    <ismove>0</ismove>
+    <!-- 是否显示血条，1：显示 0：不显示-->
+    <showblood>1</showblood>
+    <!-- 死亡销毁时间-->
+    <dietime>1.0</dietime>
+    <!-- 是否有双人场景, 1：没有双人场景 2：有双人场景-->
+    <isdoublescene>2</isdoublescene>
+    <!-- 是否有粒子, 1：有 0：没有-->
+    <haveparticle>1</haveparticle>
+    <!--是否有金币 1：有 0：没有-->
+    <havecoin>1</havecoin>
+  </elem>
+  <elem>
+    <!-- 主题名字 -->
+    <name>春节接礼物</name>
+    <number>7</number>
+    <theme>Animation.chunjie</theme>
+    <!-- 游戏类型，0:普通 1：礼物 2：地鼠 3： 恶魔-->
+    <type>1</type>
+    <!-- 游戏时间 -->
+    <timeOut>90</timeOut>
+    <!-- 目标分数-->
+    <score>500</score>
+    <filename>chunjie</filename>
+    <maxcount>30</maxcount>
+    <music>bg_newYear</music>
+    <!-- 背景是否移动，1：移动 0：不移动-->
+    <ismove>1</ismove>
+    <!-- 是否显示血条，1：显示 0：不显示-->
+    <showblood>0</showblood>
+    <!-- 死亡销毁时间-->
+    <dietime>1.0</dietime>
+    <!-- 是否有双人场景, 1：没有双人场景 2：有双人场景-->
+    <isdoublescene>2</isdoublescene>
+    <!-- 是否有粒子, 1：有 0：没有-->
+    <haveparticle>1</haveparticle>
+    <!--是否有金币 1：有 0：没有-->
+    <havecoin>1</havecoin>
+  </elem>
+  <elem>
+    <!-- 主题名字 -->
+    <name>机甲大作战</name>
+    <number>8</number>
+    <theme>Animation.jijia</theme>
+    <!-- 游戏类型，0:普通 1：礼物 2：地鼠 3： 恶魔-->
+    <type>0</type>
+    <!-- 游戏时间 -->
+    <timeOut>150</timeOut>
+    <!-- 目标分数-->
+    <score>350</score>
+    <filename>jijia</filename>
+    <maxcount>15</maxcount>
+    <music>bg_zd_sanguo</music>
+    <!-- 背景是否移动，1：移动 0：不移动-->
+    <ismove>1</ismove>
+    <!-- 是否显示血条，1：显示 0：不显示-->
+    <showblood>0</showblood>
+    <!-- 死亡销毁时间-->
+    <dietime>0.7</dietime>
+    <!-- 是否有双人场景, 1：没有双人场景 2：有双人场景-->
+    <isdoublescene>2</isdoublescene>
+    <!-- 是否有粒子, 1：有 0：没有-->
+    <haveparticle>1</haveparticle>
+    <!--是否有金币 1：有 0：没有-->
+    <havecoin>0</havecoin>
+  </elem>
+  <elem>
+    <!-- 主题名字 -->
+    <name>气球主题</name>
+    <number>9</number>
+    <theme>Animation.qiqiu</theme>
+    <!-- 游戏类型，0:普通 1：礼物 2：地鼠 3： 恶魔 4:气球-->
+    <type>4</type>
+    <!-- 游戏时间 -->
+    <timeOut>150</timeOut>
+    <!-- 目标分数-->
+    <score>350</score>
+    <filename>qiqiu</filename>
+    <maxcount>20</maxcount>
+    <music>bg_qiqiu</music>
+    <!-- 背景是否移动，1：移动 0：不移动-->
+    <ismove>0</ismove>
+    <!-- 是否显示血条，1：显示 0：不显示-->
+    <showblood>0</showblood>
+    <!-- 死亡销毁时间-->
+    <dietime>0.7</dietime>
+    <!-- 是否有双人场景, 1：没有双人场景 2：有双人场景-->
+    <isdoublescene>2</isdoublescene>
+    <!-- 是否有粒子, 1：有 0：没有-->
+    <haveparticle>1</haveparticle>
+    <!--是否有金币 1：有 0：没有-->
+    <havecoin>1</havecoin>
+  </elem>
+  <elem>
+    <!-- 主题名字 -->
+    <name>投篮</name>
+    <number>10</number>
+    <theme>Animation.toulan</theme>
+    <!-- 游戏类型，0:普通 1：礼物 2：地鼠 3： 恶魔-->
+    <type>0</type>
+    <!-- 游戏时间 -->
+    <timeOut>90</timeOut>
+    <!-- 目标分数-->
+    <score>350</score>
+    <filename>toulan</filename>
+    <maxcount>10</maxcount>
+    <music>bg_cz</music>
+    <!-- 背景是否移动，1：移动 0：不移动-->
+    <ismove>0</ismove>
+    <!-- 是否显示血条，1：显示 0：不显示-->
+    <showblood>0</showblood>
+    <!-- 死亡销毁时间-->
+    <dietime>0.7</dietime>
+    <!-- 是否有双人场景, 1：没有双人场景 2：有双人场景-->
+    <isdoublescene>2</isdoublescene>
+    <!-- 是否有粒子, 1：有 0：没有-->
+    <haveparticle>1</haveparticle>
+    <!--是否有金币 1：有 0：没有-->
+    <havecoin>1</havecoin>
+  </elem>
+  <elem>
+    <!-- 主题名字 -->
+    <name>砸玻璃</name>
+    <number>11</number>
+    <theme>Animation.glass</theme>
+    <!-- 游戏类型，0:普通 1：礼物 2：地鼠 3： 恶魔-->
+    <type>0</type>
+    <!-- 游戏时间 -->
+    <timeOut>55</timeOut>
+    <!-- 目标分数-->
+    <score>350</score>
+    <filename>glass</filename>
+    <maxcount>10</maxcount>
+    <music>bg_glass</music>
+    <!-- 背景是否移动，1：移动 0：不移动-->
+    <ismove>0</ismove>
+    <!-- 是否显示血条，1：显示 0：不显示-->
+    <showblood>0</showblood>
+    <!-- 死亡销毁时间-->
+    <dietime>0.7</dietime>
+    <!-- 是否有双人场景, 1：没有双人场景 2：有双人场景-->
+    <isdoublescene>0</isdoublescene>
+    <!-- 是否有粒子, 1：有 0：没有-->
+    <haveparticle>0</haveparticle>
+    <!--是否有金币 1：有 0：没有-->
+    <havecoin>1</havecoin>
+  </elem>
+  <elem>
+    <!-- 主题名字 -->
+    <name>小恶魔</name>
+    <number>12</number>
+    <theme>Animation.xem</theme>
+    <!-- 游戏类型，0:普通 1：礼物 2：地鼠 3： 恶魔-->
+    <type>3</type>
+    <!-- 游戏时间 -->
+    <timeOut>180</timeOut>
+    <!-- 目标分数-->
+    <score>500</score>
+    <filename>xem</filename>
+    <maxcount>15</maxcount>
+    <music>bg_xem</music>
+    <!-- 背景是否移动，1：移动 0：不移动-->
+    <ismove>1</ismove>
+    <!-- 是否显示血条，1：显示 0：不显示-->
+    <showblood>1</showblood>
+    <!-- 死亡销毁时间-->
+    <dietime>1.0</dietime>
+    <!-- 是否有双人场景, 1：没有双人场景 2：有双人场景-->
+    <isdoublescene>1</isdoublescene>
+    <!-- 是否有粒子, 1：有 0：没有-->
+    <haveparticle>1</haveparticle>
+    <!--是否有金币 1：有 0：没有-->
+    <havecoin>1</havecoin>
+  </elem>
+  <elem>
+    <!-- 主题名字 -->
+    <name>小偷</name>
+    <number>13</number>
+    <theme>Animation.xiaotou</theme>
+    <!-- 游戏类型，0:普通 1：礼物 2：地鼠 3： 恶魔-->
+    <type>0</type>
+    <!-- 游戏时间 -->
+    <timeOut>150</timeOut>
+    <!-- 目标分数-->
+    <score>500</score>
+    <filename>xiaotou</filename>
+    <maxcount>15</maxcount>
+    <music>bg_xiaotou</music>
+    <!-- 背景是否移动，1：移动 0：不移动-->
+    <ismove>0</ismove>
+    <!-- 是否显示血条，1：显示 0：不显示-->
+    <showblood>0</showblood>
+    <!-- 死亡销毁时间-->
+    <dietime>0.5</dietime>
+    <!-- 是否有双人场景, 1：没有双人场景 2：有双人场景-->
+    <isdoublescene>1</isdoublescene>
+    <!-- 是否有粒子, 1：有 0：没有-->
+    <haveparticle>1</haveparticle>
+    <!--是否有金币 1：有 0：没有-->
+    <havecoin>0</havecoin>
+  </elem>
+
+
+</LevelConfig>

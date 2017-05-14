@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- 关卡设定-->
+  <Story>
+<time>第三天</time>
+  <place>酒桌</place>
+  <image_name>16.jpg</image_name>
+<!--体检剧情 -->
+<!-- B:不去 健康-5 -->
+  <elem>
+    <name></name>
+    <answer>那个人一看就是个变态，他的话有什么可信的？</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>再说了我也没什么不舒服的，干嘛无缘无故去医院呢？</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>更何况，我本来就够穷的了……哪来的钱去医院看病啊。</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>我摇了摇头，回家了。</answer>
+  </elem>
+  <elem>
+    <name></name>
+    <answer>看医院这种事，对于现在的我而言，实在是太过奢侈了。</answer>
+  </elem>
+</Story>
